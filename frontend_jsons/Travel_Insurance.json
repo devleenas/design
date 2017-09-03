@@ -1,0 +1,217 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Travel Insurance",
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Travel Insurance for Zambia",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://164.132.53.178:8888/images/Common/visa.png",
+					"ico_height": "25px"
+				},
+                {
+                    "order": 2,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Mandatory",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "image",
+                        "url": "http://164.132.53.178:8888/images/Common/thumbsup.png",
+                        "ico_width": "35px",
+                        "ico_height": "35px"
+                    }
+                },
+                {
+                    "order": 3,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Amount",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "text",
+                        "top_margin": "17px",
+                        "bottom_margin": "20px",
+                        "text": "$12",
+                        "font_size": "28px",
+                        "font_color": "#00FA9A",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                    "order": 4,
+                    "type": "accordion",
+                    "heading_bg": "#fffff",
+                    "heading_padding": "10px 10px",
+                    "heading": {
+                        "text": "Documents",
+                        "font_size": "15px",
+                        "font_color": "#86919b",
+                        "font_style": "bold"
+                    },
+                    "icon": {
+                        "url": "http://164.132.53.178:8888/images/Common/documents.png",
+                        "ico_width": "24px",
+                        "ico_height": "22px"
+                    },
+                    "section_bg": "rgba(255,255,255,.05)",
+                    "section_data": [
+                        {
+                            "order": 1,
+                            "type": "info-text",
+                            "padding": "5px 15px",
+                            "bg_color": "rgba(255,255,255,.05)",
+                            "width":"100%",
+                            "text_section": {
+                                "width": "40%",
+                                "text": "Photo Identity",
+                                "font_color": "#86919bb",
+                                "font_size": "14px",
+                                "font_style": ""
+                            },
+                            "value_section": {
+                                "width": "60%",
+                                "align_items": "right",
+                                "value_type": "icon-with-tooltip",
+                                "content": [
+                                    {
+                                        "icon": "http://164.132.53.178:8888/images/Common/identity.png",
+                                        "ico_width": "30px",
+                                        "ico_height": "30px",
+                                        "tooltip_text": "Vector Borne"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "order": 2,
+                            "type": "info-text",
+                            "padding": "5px 15px",
+                            "bg_color": "rgba(255,255,255,.05)",
+                            "width":"100%",
+                            "text_section": {
+                                "width": "40%",
+                                "text": "Address Proof",
+                                "font_color": "#86919bb",
+                                "font_size": "14px",
+                                "font_style": ""
+                            },
+                            "value_section": {
+                                "width": "60%",
+                                "align_items": "right",
+                                "value_type": "icon-with-tooltip",
+                                "content": [
+                                    {
+                                        "icon": "http://164.132.53.178:8888/images/Common/address.png",
+                                        "ico_width": "25px",
+                                        "ico_height": "25px",
+                                        "tooltip_text": "address"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                   "order": 5,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 6,
+                    "type": "accordion",
+                    "heading_bg": "#fffff",
+                    "heading_padding": "10px 10px",
+                    "heading": {
+                        "text": "Features",
+                        "font_size": "15px",
+                        "font_color": "#86919b",
+                        "font_style": "bold"
+                    },
+                    "icon": {
+                        "url": "http://164.132.53.178:8888/images/Common/features.png",
+                        "ico_width": "24px",
+                        "ico_height": "22px"
+                    },
+                    "section_bg": "rgba(255,255,255,.05)",
+                    "section_data": [
+                        {
+                            "order": 1,
+                            "type": "info-text",
+                            "padding": "5px 15px",
+                            "bg_color": "rgba(255,255,255,.05)",
+                            "width":"100%",
+                            "text_section": {
+                                "width": "40%",
+                                "text": "Photo Identity",
+                                "font_color": "#86919bb",
+                                "font_size": "14px",
+                                "font_style": ""
+                            },
+                            "value_section": {
+                                "width": "60%",
+                                "align_items": "right",
+                                "value_type": "icon-with-tooltip",
+                                "content": [
+                                    {
+                                        "icon": "http://164.132.53.178:8888/images/Common/identity.png",
+                                        "ico_width": "30px",
+                                        "ico_height": "30px",
+                                        "tooltip_text": "Vector Borne"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "order": 2,
+                            "type": "info-text",
+                            "padding": "5px 15px",
+                            "bg_color": "rgba(255,255,255,.05)",
+                            "width":"100%",
+                            "text_section": {
+                                "width": "40%",
+                                "text": "Address",
+                                "font_color": "#86919bb",
+                                "font_size": "14px",
+                                "font_style": ""
+                            },
+                            "value_section": {
+                                "width": "60%",
+                                "align_items": "right",
+                                "value_type": "icon-with-tooltip",
+                                "content": [
+                                    {
+                                        "icon": "http://164.132.53.178:8888/images/Common/address.png",
+                                        "ico_width": "25px",
+                                        "ico_height": "25px",
+                                        "tooltip_text": "address"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+			]
+		}
+	]
+}

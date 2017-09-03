@@ -1,0 +1,138 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Jet Lag",
+			"expand_data": {
+				"visible_height": "700px",
+				 "expand_label": "Show more",
+                 "collapse_label": "Show less",
+				"font_size": "16px",
+				"font_color": "#33adff",
+				"font_style": "bold"
+			},
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Jet lag on reaching Bangalore",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://www.esseltek.com/wp-content/uploads/2016/06/icons-34.png",
+					"ico_height": "25px"
+				},
+                {
+                    "order": 2,
+                    "type": "circular-progress",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "width": "50%",
+                    "label": {
+                        "text": "Fatigue Score",
+                        "font_size": "14px",
+                        "font_color": "#86919c",
+                        "font_style": ""
+                    },
+                    "progress_bar": {
+                        "text": 70,
+                        "stroke_width": 8,
+                        "width": "60px"
+                    }
+                },
+                {
+                    "order": 3,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "0px 5px 5px 5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_left_border": true,
+                    "label": {
+                        "text": "Days to Recover",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "score",
+                        "top_margin": "18px",
+                        "bottom_margin": "20px",
+                        "current": {
+                            "text": "1-2",
+                            "font_size": "38px",
+                            "font_color": "#66b2ff",
+                            "font_style": "bold"
+                        },
+                        "total": {
+                            "text": "days",
+                            "font_size": "15px",
+                            "font_color": "#86919b",
+                            "font_style": ""
+                        }
+                    }
+
+                },
+                {
+                    "order": 3,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "0px 5px 5px 5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Risk Groups",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "image",
+                        "url": "http://164.132.53.178:8888/images/Persona/Group1.png",
+                        "ico_width": "45px",
+                        "ico_height": "45px"
+                    }
+                },
+                {
+                    "order": 3,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "0px 5px 5px 5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": false,
+                    "label": {
+                        "text": "Severity",
+                        "font_size": "14px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "score",
+                        "top_margin": "18px",
+                        "bottom_margin": "20px",
+                        "current": {
+                            "text": "3",
+                            "font_size": "38px",
+                            "font_color": "#66ffb2",
+                            "font_style": "bold"
+                        },
+                        "total": {
+                            "text": "/5",
+                            "font_size": "20px",
+                            "font_color": "#86919b",
+                            "font_style": "bold"
+                        }
+                    }
+                },
+                {
+                   "order": 4,
+                   "type": "plain-text",
+                   "text": "Galway bla bla bla bla bla bla bla blabla bla bla blabla bla bla blabla bla bla bla",
+                   "align_text": "center",
+                   "padding": "5px",
+                   "font_size": "14px",
+                   "font_color": "#86919b",
+                   "font_style": "bold"
+               }
+			]
+		}
+	]
+}

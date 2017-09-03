@@ -1,0 +1,281 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Altitude Sickness",
+             "expand_data": {
+				 "visible_height": "445px",
+                 "expand_label": "Show more",
+                 "collapse_label": "Show less",
+                 "font_size": "16px",
+                 "font_color": "#33adff",
+                 "font_style": "bold"
+             },
+             "template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Altitude Sickness in Machu Pichu",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://164.132.53.178:8888/images/Common/altitude.png",
+					"ico_height": "25px"
+				},
+                {
+                    "order": 2,
+                    "type": "image",
+                    "image_url": "https://t3.ftcdn.net/jpg/00/68/07/94/240_F_68079415_tzpiAbrYyCCcmLpijemku41rIHC4Cvgv.jpg",
+                    "image_height": "180px",
+                    "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(211,211,211,0.8)",
+                        "layout_type": "complex",
+                        "layout": {
+                            "sections": [
+                                {
+                                    "order": 1,
+                                    "type": "text",
+                                    "width": "100%",
+                                    "heading": {
+                                        "text": "Severity Score",
+                                        "font_size": "20px",
+                                        "font_color": "#ffffff",
+                                        "font_style": "bold"
+                                    },
+                                    "body": {
+                                        "text": "Critical",
+                                        "font_size": "20px",
+                                        "font_color": "#FF335E",
+                                        "font_style": "bold"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "order": 3,
+                    "type": "circular-progress",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "width": "50%",
+                    "label": {
+                        "text": "Overall coverage",
+                        "font_size": "14px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "progress_bar": {
+                        "text": 70,
+                        "stroke_width": 8,
+                        "width": "60px"
+                    }
+                },
+                {
+                    "order": 4,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "0px 5px 5px 5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": false,
+                    "label": {
+                        "text": "Breathing Difficulty",
+                        "font_size": "14px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "score",
+                        "top_margin": "18px",
+                        "bottom_margin": "20px",
+                        "current": {
+                            "text": "3",
+                            "font_size": "40px",
+                            "font_color": "#ff7575",
+                            "font_style": "bold"
+                        },
+                        "total": {
+                            "text": "/5",
+                            "font_size": "23px",
+                            "font_color": "#86919b",
+                            "font_style": ""
+                        }
+                    }
+                },
+                {
+                   "order": 5,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 6,
+                    "type": "persona-list",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "padding": "5px 5px 10px 10px",
+                    "label": {
+                        "text": "Risk groups",
+                        "font_color": "#69737b",
+                        "font_size": "13px",
+                        "font_style": "bold"
+                    },
+                    "list_items": [{
+                            "icon": "http://164.132.53.178:8888/images/Persona/Group1.png",
+                            "ico_width": "37px",
+                            "ico_height": "37px",
+                            "text": "Toddlers",
+                            "font_color": "#69737b",
+                            "font_size": "12px",
+                            "font_style": ""
+                        },
+                        {
+                            "icon": "http://164.132.53.178:8888/images/Persona/Group2.png",
+                            "ico_width": "35px",
+                            "ico_height": "37px",
+                            "text": "Teenagers",
+                            "font_color": "#69737b",
+                            "font_size": "12px",
+                            "font_style": ""
+                        },
+                        {
+                            "icon": "http://164.132.53.178:8888/images/Persona/Group3.png",
+                            "ico_width": "40px",
+                            "ico_height": "38px",
+                            "text": "Adults",
+                            "font_color": "#69737b",
+                            "font_size": "12px",
+                            "font_style": ""
+                        }
+                    ]
+                },
+                {
+                   "order": 7,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 8,
+                    "type": "two-column-text",
+                    "width": "100%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Altitude Difference ",
+                        "font_size": "12px",
+                        "font_color": "#69737b",
+                        "font_style": "bold"
+                    },
+                    "value": {
+                        "type": "text",
+                        "top_margin": "26px",
+                        "bottom_margin": "8px",
+                        "text": "1500 => 5000 Feet",
+                        "font_size": "25px",
+                        "font_color": "#33adff",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                   "order": 9,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 10,
+                    "type": "plain-text",
+                    "text": "<b></b> Common Altitude Sickness which can occur<b></b> http://www.summitdaily.com/news/feeling-sick-at-high-altitude-doctors-advice-is-to-just-get-down/",
+                    "align_text": "center",
+                    "padding": "5px 15px",
+                    "font_size": "10px",
+                    "font_color": "#69737b",
+                    "font_style": ""
+                },
+                {
+                   "order": 11,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+              },
+                {
+                  "order": 12,
+                  "type": "info-text",
+                  "padding": "20px 20px",
+                  "bg_color": "rgba(134,145,155,.05)",
+                  "text_section": {
+                    "width": "75%",
+                    "text": "Trust Score",
+                    "font_color": "#69737b",
+                    "font_size": "15px",
+                    "font_style": ""
+                  },
+                  "value_section": {
+                    "width": "25%",
+                    "align_items": "right",
+                    "value_type": "score",
+                    "score": {
+                        "text": "7",
+                        "font_color": "#33d5b1",
+                        "font_size": "36px",
+                        "font_style": "bold"
+                    },
+                    "total": {
+                        "text": "/10",
+                        "font_color": "#86919b",
+                        "font_size": "15px",
+                        "font_style": "bold"
+                     }
+                   }
+                },
+                {
+                   "order": 15,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 16,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Medicine List",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/medicines.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(134,145,155,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "75%",
+								"text": "Buy an Universal Adaptor",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": "bold"
+							},
+							"value_section": {
+								"width": "25%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

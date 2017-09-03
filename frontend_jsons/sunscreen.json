@@ -1,0 +1,1449 @@
+{
+  "insights": [
+    {
+      "id": 4,
+      "name": "High Sunburn",
+      "template": [
+        {
+          "order": 1,
+          "type": "heading",
+          "text": "Sunburn in Delhi",
+          "font_size": "16px",
+          "font_color": "#0b3450",
+          "font_style": "",
+          "icon": "http://164.132.53.178:8888/images/Common/sunburn.png"
+        },
+        {
+          "order": 2,
+          "type": "radio-tabs",
+          "label": {
+            "text": "Pick your skin color",
+            "font_size": "12px",
+            "font_color": "#86919b",
+            "font_style": "bold"
+          },
+          "tab_data": [
+                {
+                  "order": 1,
+                  "bg_color": "rgb(255, 219, 172)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "http://www.diversifiedhealth.ca/wp-content/uploads/2015/06/sunscreen.jpg",
+                      "image_height": "170px",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Moderate",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "16 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "order": 2,
+                  "bg_color": "rgb(241, 194, 125)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "http://www.diversifiedhealth.ca/wp-content/uploads/2015/06/sunscreen.jpg",
+                      "image_height": "170px",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Moderate",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "25 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "bg_color": "rgb(224, 172, 105)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "http://www.diversifiedhealth.ca/wp-content/uploads/2015/06/sunscreen.jpg",
+                      "image_height": "170px",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Moderate",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "50 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 8,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "bg_color": "rgb(198, 134, 66)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "http://www.diversifiedhealth.ca/wp-content/uploads/2015/06/sunscreen.jpg",
+                      "image_height": "170px",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Moderate",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "50 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 8,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "bg_color": "rgb(141, 85, 36)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "http://www.diversifiedhealth.ca/wp-content/uploads/2015/06/sunscreen.jpg",
+                      "image_height": "170px",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Moderate",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                      "order": 2,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 3,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 4,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "1h 40 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 5,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 6,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 7,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "bg_color": "rgb(62, 43, 19)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "http://www.diversifiedhealth.ca/wp-content/uploads/2015/06/sunscreen.jpg",
+                      "image_height": "170px",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Moderate",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "2h 5 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    }
+                  ]
+                }
+            ]
+        },
+        {
+               "order": 3,
+               "type": "hline",
+               "height": "1px",
+               "color": "#dadee1"
+        },
+        {
+          "order": 4,
+          "type": "two-column-text",
+          "width": "50%",
+          "padding": "5px",
+          "bg_color": "rgba(134,145,155,.05)",
+          "show_right_border": true,
+          "label": {
+            "text": "Ultraviolet Index",
+            "font_size": "12px",
+            "font_color": "#86919b",
+            "font_style": "bold"
+          },
+          "value": {
+            "type": "text",
+            "top_margin": "17px",
+            "bottom_margin": "20px",
+            "text": "4",
+            "font_size": "30px",
+            "font_color": "#33adff",
+            "font_style": "bold"
+          }
+        },
+        {
+          "order": 5,
+          "type": "two-column-text",
+          "width": "50%",
+          "padding": "5px",
+          "bg_color": "rgba(134,145,155,.05)",
+          "show_right_border": true,
+          "label": {
+            "text": "Outdoor Activities",
+            "font_size": "12px",
+            "font_color": "#86919b",
+            "font_style": "bold"
+          },
+          "value": {
+            "type": "image",
+            "url": "http://164.132.53.178:8888/images/Common/thumbsup.png",
+            "ico_width": "35px",
+            "ico_height": "35px"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Low Sunburn",
+      "template": [
+        {
+          "order": 1,
+          "type": "heading",
+          "text": "Sunburn in Delhi",
+          "font_size": "16px",
+          "font_color": "#0b3450",
+          "font_style": "",
+          "icon": "http://164.132.53.178:8888/images/Common/sunburn.png"
+        },
+        {
+          "order": 2,
+          "type": "radio-tabs",
+          "label": {
+            "text": "Pick your skin color",
+            "font_size": "12px",
+            "font_color": "#86919b",
+            "font_style": "bold"
+          },
+          "tab_data": [
+                {
+                  "order": 1,
+                  "bg_color": "rgb(255, 219, 172)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "https://www.neutrogena.com.au/sites/default/files/images/products/Beach-Defence-Lotion-SPF50_0_0.png",
+                      "image_height": "170px",
+                      "image_bg":"#ffffcc",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Low",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "16 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "order": 2,
+                  "bg_color": "rgb(241, 194, 125)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "https://www.neutrogena.com.au/sites/default/files/images/products/Beach-Defence-Lotion-SPF50_0_0.png",
+                      "image_height": "170px",
+                      "image_bg":"#ffff99",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Moderate",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "25 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "bg_color": "rgb(224, 172, 105)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "https://www.neutrogena.com.au/sites/default/files/images/products/Beach-Defence-Lotion-SPF50_0_0.png",
+                      "image_height": "170px",
+                      "image_bg":"#ff6666",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - High",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "50 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 8,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "bg_color": "rgb(198, 134, 66)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "https://www.neutrogena.com.au/sites/default/files/images/products/Beach-Defence-Lotion-SPF50_0_0.png",
+                      "image_height": "170px",
+                      "image_bg":"#ff66b2",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Very High",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "50 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 8,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "bg_color": "rgb(141, 85, 36)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "https://www.neutrogena.com.au/sites/default/files/images/products/Beach-Defence-Lotion-SPF50_0_0.png",
+                      "image_height": "170px",
+                      "image_bg":"#cc0066",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Severe",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                      "order": 2,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 3,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 4,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "1h 40 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 5,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 6,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 7,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "bg_color": "rgb(62, 43, 19)",
+                  "border_color": "#ccc",
+                  "radio_width": "25px",
+                  "radio_height": "25px",
+                  "section_data": [
+                    {
+                      "order": 1,
+                      "type": "image",
+                      "image_url": "https://www.neutrogena.com.au/sites/default/files/images/products/Beach-Defence-Lotion-SPF50_0_0.png",
+                      "image_height": "170px",
+                      "image_bg":"#990000",
+                      "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(0,0,0,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                          "text": "Severity - Dangerous",
+                          "font_size": "16px",
+                          "font_color": "#ffffff",
+                          "text_align": "center",
+                          "font_style": "bold"
+                        }
+                      }
+                    },
+                    {
+                       "order": 2,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 3,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Recommended SPF",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "None",
+                        "font_color": "#1ed3e0",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 4,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 5,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Sunburn Time",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "2h 5 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    },
+                    {
+                       "order": 6,
+                       "type": "hline",
+                       "height": "1px",
+                       "color": "#dadee1"
+                    },
+                    {
+                      "order": 7,
+                      "type": "info-text",
+                      "text_section": {
+                        "width": "65%",
+                        "text": "Reapply sunscreen afer",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                        "width": "35%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "0 min",
+                        "font_color": "#ff7575",
+                        "font_size": "16px",
+                        "font_style": "bold"
+                      }
+                    }
+                  ]
+                }
+            ]
+        },
+        {
+               "order": 3,
+               "type": "hline",
+               "height": "1px",
+               "color": "#dadee1"
+        },
+        {
+          "order": 4,
+          "type": "two-column-text",
+          "width": "50%",
+          "padding": "5px",
+          "bg_color": "rgba(134,145,155,.05)",
+          "show_right_border": true,
+          "label": {
+            "text": "Ultraviolet Index",
+            "font_size": "12px",
+            "font_color": "#86919b",
+            "font_style": "bold"
+          },
+          "value": {
+            "type": "text",
+            "top_margin": "17px",
+            "bottom_margin": "22px",
+            "text": "4",
+            "font_size": "30px",
+            "font_color": "#33adff",
+            "font_style": "bold"
+          }
+        },
+        {
+          "order": 5,
+          "type": "two-column-text",
+          "width": "50%",
+          "padding": "5px",
+          "bg_color": "rgba(134,145,155,.05)",
+          "show_right_border": true,
+          "label": {
+            "text": "Outdoor Activities",
+            "font_size": "12px",
+            "font_color": "#86919b",
+            "font_style": "bold"
+          },
+          "value": {
+            "type": "text",
+            "top_margin": "5px",
+            "bottom_margin": "10px",
+            "text": "Avoid sun from 10.00AM to 4 PM",
+            "font_size": "14px",
+            "font_color": "#FF0000",
+            "font_style": ""
+          }
+        }
+      ]
+    }
+  ]
+}

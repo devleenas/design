@@ -1,0 +1,375 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Visa",
+			"expand_data": {
+				"visible_height": "1000px",
+				"font_size": "16px",
+				"font_color": "#33adff",
+				"font_style": "bold"
+			},
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Visa process for Bangalore",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "https://www.shareicon.net/download/2016/09/09/827404_document_512x512.png",
+					"ico_height": "25px"
+				},
+                {
+                    "order": 2,
+                    "type": "image",
+                    "image_url": "http://media.tumblr.com/77f547134836a764343b30e066cdb3e4/tumblr_inline_mwlrqaNekw1sqkka4.jpg",
+                    "image_height": "150px",
+                    "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(65,105,225,0.3)",
+                        "layout_type": "simple",
+                        "layout": {
+                            "text": "Indian Visa",
+                            "font_size": "16px",
+                            "font_color": "#ffffff",
+                            "text_align": "center",
+                            "font_style": "bold"
+                        }
+                    }
+                },
+                {
+                  "order": 3,
+                  "type": "two-column-text",
+                  "width": "50%",
+                  "padding": "5px",
+                  "bg_color": "rgba(134,145,155,.05)",
+                  "show_right_border": true,
+                  "label": {
+                      "text": "Stay Duration",
+                      "font_size": "12px",
+                      "font_color": "#86919b",
+                      "font_style": ""
+                  },
+                  "value": {
+                      "type": "text",
+                      "top_margin": "17px",
+                      "bottom_margin": "20px",
+                      "text": "20days",
+                      "font_size": "28px",
+                      "font_color": "#ADFF2F",
+                      "font_style": "bold"
+                  }
+              },
+                {
+                    "order": 4,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Cost of Visa",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "text",
+                        "top_margin": "17px",
+                        "bottom_margin": "20px",
+                        "text": "Rs1800",
+                        "font_size": "28px",
+                        "font_color": "#00FA9A",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                    "order": 5,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Acceptance Score",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "score",
+                        "top_margin": "25px",
+                        "current": {
+                            "text": "3",
+                            "font_size": "40px",
+                            "font_color": "#ff7575",
+                            "font_style": "bold"
+                        },
+                        "total": {
+                            "text": "/5",
+                            "font_size": "23px",
+                            "font_color": "#86919b",
+                            "font_style": "bold"
+                        }
+                    }
+                },
+                {
+                    "order": 6,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Processing Time",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "text",
+                        "top_margin": "17px",
+                        "bottom_margin": "26px",
+                        "text": "7 days",
+                        "font_size": "28px",
+                        "font_color": "#33adff",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                    "order": 7,
+                    "type": "info-text",
+                    "text_section": {
+                        "width": "75%",
+                        "text": "Documents to carry",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": ""
+                    },
+                    "value_section": {
+                        "width": "40%",
+                        "align_items": "right",
+                        "value_type": "popup",
+                        "text": "VIEW",
+                        "font_color": "#33adff",
+                        "font_size": "14px",
+                        "font_style": "",
+                        "popup_bg_color": "rgba(134,145,155,.05)",
+                        "menu_items_padding":"2px 15px",
+                        "content": [{
+                                "text": "This is ITEM 1",
+                                "font_color": "#86919bb",
+                                "font_size": "14px",
+                                "font_style": "",
+                                "icon": "http://woocation.online/network-type.png",
+                                "ico_width": "25px",
+                                "ico_height": "25px"
+                            },
+                            {
+                                "text": "This is ITEM 2",
+                                "font_color": "#FF0000",
+                                "font_size": "14px",
+                                "font_style": "",
+                                "icon": "http://woocation.online/network-type.png",
+                                "ico_width": "25px",
+                                "ico_height": "25px"
+                            }
+                        ]
+                    }
+                },
+                {
+                   "order": 8,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 9,
+                    "type": "info-text",
+                    "text_section": {
+                        "width": "75%",
+                        "text": "Processing Steps",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": ""
+                    },
+                    "value_section": {
+                        "width": "40%",
+                        "align_items": "right",
+                        "value_type": "popup",
+                        "text": "VIEW",
+                        "font_color": "#33adff",
+                        "font_size": "14px",
+                        "font_style": "",
+                        "popup_bg_color": "rgba(134,145,155,.05)",
+                        "menu_items_padding":"2px 15px",
+                        "content": [{
+                                "text": "This is ITEM 1",
+                                "font_color": "#86919bb",
+                                "font_size": "14px",
+                                "font_style": "",
+                                "icon": "http://woocation.online/network-type.png",
+                                "ico_width": "25px",
+                                "ico_height": "25px"
+                            },
+                            {
+                                "text": "This is ITEM 2",
+                                "font_color": "#FF0000",
+                                "font_size": "14px",
+                                "font_style": "",
+                                "icon": "http://woocation.online/network-type.png",
+                                "ico_width": "25px",
+                                "ico_height": "25px"
+                            }
+                        ]
+                    }
+                },
+                {
+                   "order": 10,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 11,
+                    "type": "info-text",
+                    "text_section": {
+                        "width": "50%",
+                        "text": "Visa Issuing Authority",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": ""
+                    },
+                    "value_section": {
+                        "width": "50%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "Indian Government",
+                        "font_color": "#33adff",
+                        "font_size": "15px",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                   "order": 12,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 13,
+                    "type": "info-text",
+                    "text_section": {
+                        "width": "50%",
+                        "text": "Embassy Link",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": ""
+                    },
+                    "value_section": {
+                        "width": "50%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "www.india.gov.in",
+                        "font_color": "#33adff",
+                        "font_size": "15px",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                   "order": 14,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 15,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidences",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": ""
+					},
+					"icon": {
+						"url": "https://d13cwcha1tx8mm.cloudfront.net/ideabase/style/IdeaBase_Icons_MagGlass.png?mtime=20160317145236",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(134,145,155,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "95%",
+								"text": "India Uses Type C and Type D",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": "bold"
+							},
+							"value_section": {
+								"width": "5%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				},
+                {
+                   "order": 16,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 17,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": ""
+					},
+					"icon": {
+						"url": "http://www.maison-passion.fr/villefranche/2016/pouce.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(134,145,155,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "75%",
+								"text": "Buy an Universal Adaptor",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": "bold"
+							},
+							"value_section": {
+								"width": "25%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

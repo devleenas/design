@@ -1,0 +1,1526 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Tipping Etiquettes",
+			"expand_data": {
+				 "visible_height": "370px",
+                 "expand_label": "Show more",
+                 "collapse_label": "Show less",
+                 "font_size": "16px",
+                 "font_color": "#33adff",
+                 "font_style": "bold"
+                      },
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Tipping etiquettes in London",x
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "https://media.acecash.com/~/media/ACE/Images/Process/2/step3.ashx?h=300&w=300&la=en&hash=E76FBAC5B33FD3B72A5E20666556BCA5F551DEFC",
+					"ico_height": "25px"
+				},
+                {
+                   "order": 2,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 3,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Waiter",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://www.shareicon.net/download/2016/07/08/793035_medical_512x512.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 4,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 5,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Wine Steward",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://icons.iconarchive.com/icons/dapino/policemen/512/Policman-Without-Uniform-icon.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 6,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 7,
+					"type": "Coatroom Attendant",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Firestation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://www.clker.com/cliparts/0/6/0/a/11949837711534131083firestation_mimooh_01.svg.med.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 8,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 9,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Parking Valet",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://4vector.com/i/free-vector-help-save-life-float-clip-art_117697_Help_Save_Life_Float_clip_art_hight.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 10,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 11,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Taxi Driver",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://www.paws-and-feet.de/pfote.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 12,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 13,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Tour Guide",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/wp-content/uploads/sites/2/2013/11/Helicoptero.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 14,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 15,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Hair Dresser",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://www.clker.com/cliparts/m/a/i/C/F/f/green-bomb.svg.hi.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 16,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 17,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Hotel Doorman",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://phillycaraccidentguys.com/wp-content/uploads/2015/02/Car-crashing-cartoon.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 18,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 19,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Hotel Bellboy",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://i0.wp.com/yogaacton.com/wp-content/uploads/2014/03/mother-child-vector.png?ssl=1",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 20,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 21,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Skycap",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://i0.wp.com/yogaacton.com/wp-content/uploads/2014/03/mother-child-vector.png?ssl=1",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 22,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 23,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Spa Services",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://i0.wp.com/yogaacton.com/wp-content/uploads/2014/03/mother-child-vector.png?ssl=1",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Address",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Email",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Phone",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "+001 1405 6730",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					]
+				},
+                {
+                   "order": 24,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 25,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidence",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://d13cwcha1tx8mm.cloudfront.net/ideabase/style/IdeaBase_Icons_MagGlass.png?mtime=20160317145236",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+                            {
+                                "order": 1,
+                                "type": "info-text",
+                                "text_section": {
+                                    "width": "75%",
+                                    "text": "Safe for Travel",
+                                    "font_color": "#69737b",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "25%",
+                                    "align_items": "right",
+                                    "value_type": "text",
+                                    "text": "",
+                                    "font_color": "#ff7575",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                }
+                            },
+                            {
+                                "order": 2,
+                                "type": "info-text",
+                                "padding": "5px 15px",
+                                "bg_color": "rgba(255,255,255,.05)",
+                                "width": "100%",
+                                "icon_section": {
+                                    "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                    "ico_width": "35px",
+                                    "ico_height": "35px"
+                                },
+                                "text_section": {
+                                    "width": "90%",
+                                    "text": "Contact Embassy in Emergency",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                },
+                                "desc": {
+                                    "text": "",
+                                    "font_color": "#69737b",
+                                    "font_size": "12px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "10%",
+                                    "text": "",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                   }
+                                }
+                          ]
+                        },
+                {
+                   "order": 26,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 27,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://www.maison-passion.fr/villefranche/2016/pouce.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+                            {
+                                "order": 1,
+                                "type": "info-text",
+                                "text_section": {
+                                    "width": "75%",
+                                    "text": "Safe for Travel",
+                                    "font_color": "#69737b",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "25%",
+                                    "align_items": "right",
+                                    "value_type": "text",
+                                    "text": "",
+                                    "font_color": "#ff7575",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                }
+                            },
+                            {
+                                "order": 2,
+                                "type": "info-text",
+                                "padding": "5px 15px",
+                                "bg_color": "rgba(255,255,255,.05)",
+                                "width": "100%",
+                                "icon_section": {
+                                    "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                    "ico_width": "35px",
+                                    "ico_height": "35px"
+                                },
+                                "text_section": {
+                                    "width": "90%",
+                                    "text": "Contact Embassy in Emergency",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                },
+                                "desc": {
+                                    "text": "",
+                                    "font_color": "#69737b",
+                                    "font_size": "12px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "10%",
+                                    "text": "",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                   }
+                                }
+                          ]
+                        }
+			]
+		}
+	]
+}

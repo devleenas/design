@@ -1,0 +1,326 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Embassy Details",
+			"expand_data": {
+				"visible_height": "700px",
+				"expand_label": "Show more",
+                "collapse_label": "Show less",
+				"font_size": "16px",
+				"font_color": "#33adff",
+				"font_style": "bold"
+			},
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Indian Embassy in Bangalore",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://www.esseltek.com/wp-content/uploads/2016/06/icons-34.png",
+					"ico_height": "25px"
+				},
+                {
+                  "order": 2,
+                  "type": "two-column-text",
+                  "width": "50%",
+                  "padding": "5px",
+                  "bg_color": "rgba(134,145,155,.05)",
+                  "show_right_border": true,
+                  "label": {
+                      "text": "Distance to Embassy",
+                      "font_size": "12px",
+                      "font_color": "#86919b",
+                      "font_style": ""
+                  },
+                  "value": {
+                      "type": "text",
+                      "top_margin": "17px",
+                      "bottom_margin": "20px",
+                      "text": "16km",
+                      "font_size": "28px",
+                      "font_color": "#33adff",
+                      "font_style": "bold"
+                  }
+              },
+                {
+                  "order": 3,
+                  "type": "two-column-text",
+                  "width": "50%",
+                  "padding": "5px",
+                  "bg_color": "rgba(134,145,155,.05)",
+                  "show_right_border": false,
+                  "label": {
+                      "text": "Time to Reach",
+                      "font_size": "12px",
+                      "font_color": "#86919b",
+                      "font_style": ""
+                  },
+                  "value": {
+                      "type": "text",
+                      "top_margin": "17px",
+                      "bottom_margin": "20px",
+                      "text": "3hrs",
+                      "font_size": "28px",
+                      "font_color": "#00FA9A",
+                      "font_style": "bold"
+                  }
+              },
+                {
+                  "order": 4,
+                  "type": "info-text",
+                  "padding": "5px 15px",
+                  "bg_color": "rgba(255,255,255,.05)",
+                  "width": "100%",
+                  "icon_section": {
+                      "url": "http://cdn-4.abudhabi2.com/wp-content/uploads/2015/03/indian-embassy.jpg",
+                      "ico_width": "25px",
+                      "ico_height": "25px"
+                  },
+                  "text_section": {
+                      "width": "90%",
+                      "text": "Indian Embassy in Indonesia",
+                      "font_color": "#86919bb",
+                      "font_size": "14px",
+                      "font_style": "bold"
+                  },
+                  "desc": {
+                      "text": "North Sumtra",
+                      "font_color": "#69737b",
+                      "font_size": "12px",
+                      "font_style": ""
+                  },
+                  "value_section": {
+                      "width": "30%",
+                      "text": "",
+                      "font_color": "#86919bb",
+                      "font_size": "14px",
+                      "font_style": ""
+                  }
+              },
+                {
+                    "order": 5,
+                    "type": "info-text",
+                    "padding": "5px 15px",
+                    "bg_color": "rgba(255,255,255,.05)",
+                    "width": "100%",
+                    "icon_section": {
+                        "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                        "ico_width": "25px",
+                        "ico_height": "25px"
+                    },
+                    "text_section": {
+                        "width": "70%",
+                        "text": "Address",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": "bold"
+                    },
+                    "desc": {
+                        "text": "1/1 Bla Street BlaBla Road Indonesia",
+                        "font_color": "#69737b",
+                        "font_size": "12px",
+                        "font_style": ""
+                    },
+                    "value_section": {
+                        "width": "30%",
+                        "text": "",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": ""
+                    }
+                },
+                {
+                    "order": 6,
+                    "type": "info-text",
+                    "padding": "5px 15px",
+                    "bg_color": "rgba(255,255,255,.05)",
+                    "width": "100%",
+                    "icon_section": {
+                        "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                        "ico_width": "25px",
+                        "ico_height": "20px"
+                    },
+                    "text_section": {
+                        "width": "70%",
+                        "text": "Email",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": "bold"
+                    },
+                    "desc": {
+                        "text": "test@blabla.com",
+                        "font_color": "#69737b",
+                        "font_size": "12px",
+                        "font_style": ""
+                    },
+                    "value_section": {
+                        "width": "30%",
+                        "text": "",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": ""
+                    }
+                },
+                {
+                    "order": 7,
+                    "type": "info-text",
+                    "padding": "5px 15px",
+                    "bg_color": "rgba(255,255,255,.05)",
+                    "width": "100%",
+                    "icon_section": {
+                        "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                        "ico_width": "25px",
+                        "ico_height": "25px"
+                    },
+                    "text_section": {
+                        "width": "70%",
+                        "text": "Phone",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": "bold"
+                    },
+                    "desc": {
+                        "text": "+001 345 3456",
+                        "font_color": "#69737b",
+                        "font_size": "12px",
+                        "font_style": ""
+                    },
+                    "value_section": {
+                        "width": "30%",
+                        "text": "",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": ""
+                    }
+                },
+                {
+                   "order": 8,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 9,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidences",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://d13cwcha1tx8mm.cloudfront.net/ideabase/style/IdeaBase_Icons_MagGlass.png?mtime=20160317145236",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "95%",
+								"text": "No emergency for Indians in Indonesia",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": ""
+							},
+							"value_section": {
+								"width": "5%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				},
+                {
+                   "order": 10,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 11,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://www.maison-passion.fr/villefranche/2016/pouce.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+                            {
+                                "order": 1,
+                                "type": "info-text",
+                                "text_section": {
+                                    "width": "75%",
+                                    "text": "Safe for Travel",
+                                    "font_color": "#69737b",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "25%",
+                                    "align_items": "right",
+                                    "value_type": "text",
+                                    "text": "",
+                                    "font_color": "#ff7575",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                }
+                            },
+                            {
+                                "order": 2,
+                                "type": "info-text",
+                                "padding": "5px 15px",
+                                "bg_color": "rgba(255,255,255,.05)",
+                                "width": "100%",
+                                "icon_section": {
+                                    "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                    "ico_width": "35px",
+                                    "ico_height": "35px"
+                                },
+                                "text_section": {
+                                    "width": "80%",
+                                    "text": "Contact Embassy in Emergency",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                },
+                                "desc": {
+                                    "text": "Some optional description",
+                                    "font_color": "#69737b",
+                                    "font_size": "12px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "20%",
+                                    "text": "",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                   }
+                                }
+                          ]
+                        }
+					]
+				}
+			]
+		}

@@ -1,0 +1,366 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Weather",
+			"expand_data": {
+				"visible_height": "1000px",
+				"font_size": "16px",
+				"font_color": "#33adff",
+				"font_style": "bold"
+			},
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Weather in Bangalore",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://www.freeiconspng.com/uploads/weather-icon-png-2.png",
+					"ico_height": "25px"
+				},
+                {
+					"order": 2,
+					"type": "image",
+					"image_url": "https://lonelyplanetimages.imgix.net/a/g/hi/t/7485b46b2aa78a9c4e8384f3f40dca15-mumbai-bombay.jpg?sharp=10&vib=20&w=1200",
+					"image_height": "200px",
+					"overlay": {
+						"position": "bottom",
+						"bg_color": "rgba(0,225,230,0.5)",
+						"layout_type": "simple",
+						"layout": {
+							"text": "Current weather is Humid",
+							"font_size": "16px",
+							"font_color": "#ffffff",
+							"text_align": "center",
+							"font_style": "bold"
+						}
+					}
+				},
+                {
+                  "order": 3,
+                  "type": "info-text",
+                  "padding": "5px 15px",
+                  "bg_color": "rgba(134,145,155,.05)",
+                  "width": "100%",
+                  "icon_section": {
+                      "url": "https://images.vexels.com/media/users/3/135034/isolated/preview/ed4c84a8cc1b751b35d8e9f3948a908a-icono-de-la-nube-silueta-plana-by-vexels.png",
+                      "ico_width": "35px",
+                      "ico_height": "35px"
+                  },
+                  "text_section": {
+                      "width": "50%",
+                      "text": "Dec 8, 2017",
+                      "font_color": "#86919bb",
+                      "font_size": "14px",
+                      "font_style": "bold"
+                  },
+                  "desc": {
+                      "text": "Overall Weather   Cloudy with light rain",
+                      "font_color": "#FF7F50",
+                      "font_size": "12px",
+                      "font_style": ""
+                  },
+                  "value_section": {
+                      "width": "30%",
+                      "align_items": "right",
+                      "value_type": "popup",
+                      "text": "MORE",
+                      "font_color": "#33adff",
+                      "font_size": "14px",
+                      "font_style": "bold",
+                      "popup_bg_color": "rgba(134,145,155,.05)",
+                      "menu_items_padding": "2px 15px",
+                      "content": [
+                          {
+                              "text": "Light Drizzle next 2 days",
+                              "font_color": "#86919bb",
+                              "font_size": "14px",
+                              "font_style": "",
+                              "icon": "http://files.softicons.com/download/web-icons/android-weather-icons-by-bharath-prabhuswamy/png/512x512/Slight%20Drizzle.png",
+                              "ico_width": "25px",
+                              "ico_height": "25px"
+                          },
+                          {
+                              "text": "Weekend Showers",
+                              "font_color": "#86919bb",
+                              "font_size": "14px",
+                              "font_style": "",
+                              "icon": "http://files.softicons.com/download/web-icons/android-weather-icons-by-bharath-prabhuswamy/png/512x512/Drizzle.png",
+                              "ico_width": "25px",
+                              "ico_height": "25px"
+                          }
+                      ]
+                  }
+               },
+                {
+                   "order": 4,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                  "order": 5,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(255,255,255,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Travel Recommendation",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "order": 1,
+                        "type": "circular-progress",
+                        "bg_color": "rgba(255,255,255,.05)",
+                        "width": "50%",
+                        "label": {
+                            "text": "Travel Recommendation",
+                            "font_size": "14px",
+                            "font_color": "#86919b",
+                            "font_style": "bold"
+                        },
+                        "progress_bar": {
+                            "text": 94,
+                            "stroke_width": 10,
+                            "width": "60px"
+                        }
+                    }
+               },
+               {
+                    "order": 6,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(255,255,255,.05)",
+                    "show_right_border": false,
+                    "label": {
+                        "text": "Currently occurring",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "text",
+                        "top_margin": "17px",
+                        "bottom_margin": "20px",
+                        "text": "YES",
+                        "font_size": "28px",
+                        "font_color": "#33adff",
+                        "font_style": ""
+                    }
+                },
+                {
+                   "order": 7,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                  "order": 8,
+                  "type": "info-text",
+                  "padding": "5px 15px",
+                  "bg_color": "rgba(255,255,255,.05)",
+                  "width": "100%",
+                  "icon_section": {
+                      "url": "http://www.vikingheatengines.com/upl/images/495246/4.png",
+                      "ico_width": "35px",
+                      "ico_height": "35px"
+                  },
+                  "text_section": {
+                      "width": "70%",
+                      "text": "Max Temperature",
+                      "font_color": "#86919bb",
+                      "font_size": "14px",
+                      "font_style": "bold"
+                  },
+                  "desc": {
+                      "text": "35 Degree Celsius",
+                      "font_color": "#69737b",
+                      "font_size": "12px",
+                      "font_style": ""
+                  },
+                  "value_section": {
+                      "text": "",
+                      "font_color": "#33d5b1",
+                      "font_size": "25px",
+                      "font_style": "bold"
+                  }
+                },
+                {
+                  "order": 9,
+                  "type": "info-text",
+                  "padding": "5px 15px",
+                  "bg_color": "rgba(255,255,255,.05)",
+                  "width": "100%",
+                  "icon_section": {
+                      "url": "http://png-5.vector.me/files/images/4/2/427239/simple_weather_symbols_15_thumb",
+                      "ico_width": "35px",
+                      "ico_height": "35px"
+                  },
+                  "text_section": {
+                      "width": "70%",
+                      "text": "Rainfall",
+                      "font_color": "#86919bb",
+                      "font_size": "14px",
+                      "font_style": "bold"
+                  },
+                  "desc": {
+                      "text": "35 Degree Celsius",
+                      "font_color": "#69737b",
+                      "font_size": "12px",
+                      "font_style": ""
+                  },
+                  "value_section": {
+                      "text": "",
+                      "font_color": "#33d5b1",
+                      "font_size": "25px",
+                      "font_style": "bold"
+                  }
+               },
+                {
+                   "order": 10,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                  "order": 11,
+                  "type": "bulleted-list",
+                  "heading": {
+                      "text": "Special Alerts",
+                      "font_size": "15px",
+                      "font_color": "#69737b",
+                      "font_style": ""
+                  },
+                  "list": [{
+                          "text": "Street FLodding",
+                          "font_size": "15px",
+                          "font_color": "#69737b",
+                          "font_style": ""
+                      },
+                      {
+                          "text": "Traffic Jams",
+                          "font_size": "15px",
+                          "font_color": "#69737b",
+                          "font_style": ""
+                      }
+                  ]
+              },
+                {
+                    "order": 12,
+                    "type": "info-text",
+                    "padding": "5px 15px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "width":"100%",
+                    "text_section": {
+                        "width": "75%",
+                        "text": "Trust Score",
+                        "font_color": "#69737b",
+                        "font_size": "15px",
+                        "font_style": "bold"
+                    },
+                    "value_section": {
+                        "width": "25%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "6/7",
+                        "font_color": "#ff7575",
+                        "font_size": "25px",
+                        "font_style": ""
+                    }
+                },
+                {
+					"order": 13,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidences",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": ""
+					},
+					"icon": {
+						"url": "https://d13cwcha1tx8mm.cloudfront.net/ideabase/style/IdeaBase_Icons_MagGlass.png?mtime=20160317145236",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(134,145,155,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "95%",
+								"text": "India Uses Type C and Type D",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": "bold"
+							},
+							"value_section": {
+								"width": "5%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				},
+                {
+                   "order": 14,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 15,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": ""
+					},
+					"icon": {
+						"url": "http://www.maison-passion.fr/villefranche/2016/pouce.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(134,145,155,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "75%",
+								"text": "Buy an Universal Adaptor",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": "bold"
+							},
+							"value_section": {
+								"width": "25%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

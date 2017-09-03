@@ -1,0 +1,279 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Air Pollution",
+           	"expand_data": {
+				"visible_height": "500px",
+                "expand_label": "Show more",
+                "collapse_label": "Show less",
+				"font_size": "16px",
+				"font_color": "#33adff",
+				"font_style": "bold"
+			},
+             "template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Air Index in Beijing",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://164.132.53.178:8888/images/Common/airpollution.png",
+					"ico_height": "25px"
+				},
+                {
+                    "order": 2,
+                    "type": "image",
+                    "image_url": "https://i.cbc.ca/1.3355522.1449592030!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/china-face-mask-fashion-photo-package.jpg",
+                    "image_height": "200px",
+                    "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(211,211,211,0.5)",
+                        "layout_type": "simple",
+                        "layout": {
+                            "text": "Air Pollution Index is Severe",
+                            "font_size": "16px",
+                            "font_color": "#ffffff",
+                            "text_align": "center",
+                            "font_style": "bold"
+                        }
+                    }
+                },
+				{
+                    "order": 3,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Air Quality Score",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": "bold"
+                    },
+                    "value": {
+                        "type": "score",
+                        "top_margin": "25px",
+                        "current": {
+                            "text": "3",
+                            "font_size": "40px",
+                            "font_color": "#ff7575",
+                            "font_style": "bold"
+                        },
+                        "total": {
+                            "text": "/5",
+                            "font_size": "23px",
+                            "font_color": "#86919b",
+                            "font_style": "bold"
+                        }
+                    }
+                },
+                {
+                    "order": 4,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Severity Score",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": "bold"
+                    },
+                    "value": {
+                        "type": "text",
+                        "top_margin": "26px",
+                        "bottom_margin": "18px",
+                        "text": "34%",
+                        "font_size": "35px",
+                        "font_color": "#33adff",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                   "order": 5,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 6,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Common air borne sickness",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Health_Wellbeing/Air_Quality/airsickness.png",
+						"ico_width": "25px",
+						"ico_height": "25px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+                          "order": 1,
+                          "type": "icons-text",
+                          "padding": "5px 15px",
+                          "bg_color": "rgba(255,255,255,.05)",
+                          "item_margin": "5px 0px",
+                          "list_items": [
+                              {
+                                  "icon": {
+                                      "url": "http://164.132.53.178:8888/images/Common/list.png",
+                                      "ico_width": "15px",
+                                      "ico_height": "15px",
+                                      "width": "10%"
+                                  },
+                                  "text": {
+                                      "text": "Asthma",
+                                      "font_size": "12px",
+                                      "font_color": "#86919b",
+                                      "font_style": "",
+                                      "width": "90%"
+                                  }
+                              },
+                              {
+                                  "icon": {
+                                      "url": "http://164.132.53.178:8888/images/Common/list.png",
+                                      "ico_width": "15px",
+                                      "ico_height": "15px",
+                                      "width": "10%"
+                                  },
+                                  "text": {
+                                      "text": "Bronchitis",
+                                      "font_size": "12px",
+                                      "font_color": "#86919b",
+                                      "font_style": "",
+                                      "width": "90%"
+                                  }
+                              }
+                          ]
+                      }
+					]
+				},
+                {
+                   "order": 7,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 8,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidence",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/evidences.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+                          "order": 1,
+                          "type": "icons-text",
+                          "padding": "5px 15px",
+                          "bg_color": "rgba(255,255,255,.05)",
+                          "item_margin": "5px 0px",
+                          "list_items": [
+                              {
+                                  "icon": {
+                                      "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                      "ico_width": "30px",
+                                      "ico_height": "30px",
+                                      "width": "10%"
+                                  },
+                                  "text": {
+                                      "text": "https://www.reuters.com/article/us-china-pollution/china-commits-to-cut-northern-air-pollution-by-15-percent-idUSKCN1B40CM",
+                                      "font_size": "12px",
+                                      "font_color": "#0000FF",
+                                      "font_style": "",
+                                      "width": "90%"
+                                  }
+                              }
+                          ]
+                      }
+					]
+				},
+                {
+                   "order": 9,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 10,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendations",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/recommendations.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+                          "order": 1,
+                          "type": "icons-text",
+                          "padding": "5px 15px",
+                          "bg_color": "rgba(255,255,255,.05)",
+                          "item_margin": "5px 0px",
+                          "list_items": [
+                              {
+                                  "icon": {
+                                      "url": "http://164.132.53.178:8888/images/Common/stop.png",
+                                      "ico_width": "30px",
+                                      "ico_height": "30px",
+                                      "width": "10%"
+                                  },
+                                  "text": {
+                                      "text": "Avoid going outside in the day",
+                                      "font_size": "12px",
+                                      "font_color": "#86919b",
+                                      "font_style": "",
+                                      "width": "90%"
+                                  }
+                              },
+                              {
+                                  "icon": {
+                                      "url": "http://164.132.53.178:8888/images/Common/stop.png",
+                                      "ico_width": "30px",
+                                      "ico_height": "30px",
+                                      "width": "10%"
+                                  },
+                                  "text": {
+                                      "text": "Avoid polluted areas",
+                                      "font_size": "12px",
+                                      "font_color": "#86919b",
+                                      "font_style": "",
+                                      "width": "90%"
+                                  }
+                              }
+                          ]
+                      }
+					]
+				}
+			]
+		}
+	]
+}

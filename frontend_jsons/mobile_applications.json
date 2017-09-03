@@ -1,0 +1,309 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Mobile Application",
+			"expand_data": {
+				"visible_height": "1000px",
+				"font_size": "16px",
+				"font_color": "#33adff",
+				"font_style": "bold"
+			},
+			"template": [
+              {
+                "order": 1,
+                "type": "heading",
+                "text": "Helpful Mobile Apps in Bangalore",
+                "font_size": "15px",
+                "font_color": "#0b3450",
+                "font_style": "",
+                "icon": "http://downloadicons.net/sites/default/files/mobile-phone-icon-32284.png",
+                "ico_height": "25px"
+              },
+              {
+                    "order": 2,
+                    "type": "tabs",
+                    "font_color": "#69737b",
+                    "font_size": "15px",
+                    "font_style": "",
+                    "selected_color": "#ff7575",
+                    "selected_size": "16px",
+                    "selected_font_style": "bold",
+                    "bg_color": "rgba(255,255,255,.05)",
+                    "tab_bg_color": "#ffffff",
+                    "tab_data": [
+                        {
+                            "id": 21,
+                            "displayName": "Blackberry",
+                            "value": "Blackberry",
+                            "section_data": [
+                                {
+                                  "order": 1,
+                                  "type": "accordion",
+                                  "heading_bg": "#fffff",
+                                  "heading_padding": "10px 10px",
+                                  "heading": {
+                                      "text": "Healthcare",
+                                      "font_size": "15px",
+                                      "font_color": "#86919b",
+                                      "font_style": "bold"
+                                  },
+                                  "icon": {
+                                      "url": "https://www.shareicon.net/download/2016/07/08/793035_medical_512x512.png",
+                                      "ico_width": "24px",
+                                      "ico_height": "22px"
+                                  },
+                                  "section_bg": "rgba(255,255,255,.05)",
+                                  "section_data": [
+                                        {
+                                          "order": 1,
+                                          "type": "compound-list-one",
+                                          "bg_color": "rgba(255,255,255,.05)",
+                                          "padding": "5px 10px 0px 10px",
+                                          "list_items": [{
+                                                  "icon": {
+                                                      "icon": "http://164.132.53.178:8888/images/Travel_Essentials/Essential_Mobile_Apps/food.png",
+                                                      "ico_width": "25px",
+                                                      "ico_height": "25px"
+                                                  },
+                                                  "title": {
+                                                      "text": "Food App - Delhivery",
+                                                      "font_size": "16px",
+                                                      "font_color": "#000000",
+                                                      "font_style": ""
+                                                  },
+                                                  "desc": {
+                                                      "text": "Order food 24/7",
+                                                      "font_size": "12px",
+                                                      "font_color": "#69737b",
+                                                      "font_style": ""
+                                                  },
+                                                  "right_icon": {
+                                                      "icon": "http://164.132.53.178:8888/images/Travel_Essentials/Essential_Mobile_Apps/free.png",
+                                                      "ico_width": "45px",
+                                                      "ico_height": "45px"
+                                                  }
+                                              }
+                                            ]
+                                         },
+                                        {
+                                          "order": 2,
+                                          "type": "compound-list-one",
+                                          "bg_color": "rgba(255,255,255,.05)",
+                                          "padding": "5px 10px 0px 10px",
+                                          "list_items": [{
+                                                  "icon": {
+                                                      "icon": "http://164.132.53.178:8888/images/Travel_Essentials/Essential_Mobile_Apps/healthcare.png",
+                                                      "ico_width": "25px",
+                                                      "ico_height": "25px"
+                                                  },
+                                                  "title": {
+                                                      "text": "Health App - Plus One",
+                                                      "font_size": "16px",
+                                                      "font_color": "#000000",
+                                                      "font_style": ""
+                                                  },
+                                                  "desc": {
+                                                      "text": "Order emergency medicines",
+                                                      "font_size": "12px",
+                                                      "font_color": "#69737b",
+                                                      "font_style": ""
+                                                  },
+                                                  "right_icon": {
+                                                      "icon": "http://164.132.53.178:8888/images/Travel_Essentials/Essential_Mobile_Apps/paid.png",
+                                                      "ico_width": "45px",
+                                                      "ico_height": "45px"
+                                                  }
+                                              }
+                                            ]
+                                         }
+                                    ]
+                                },
+                                {
+                                   "order": 2,
+                                   "type": "hline",
+                                   "height": "2px",
+                                   "color": "#dadee1"
+                                },
+                                {
+                                  "order": 3,
+                                  "type": "accordion",
+                                  "heading_bg": "#fffff",
+                                  "heading_padding": "10px 10px",
+                                  "heading": {
+                                      "text": "Food",
+                                      "font_size": "15px",
+                                      "font_color": "#86919b",
+                                      "font_style": "bold"
+                                  },
+                                  "icon": {
+                                      "url": "https://www.shareicon.net/download/2016/07/08/793035_medical_512x512.png",
+                                      "ico_width": "24px",
+                                      "ico_height": "22px"
+                                  },
+                                  "section_bg": "rgba(255,255,255,.05)",
+                                  "section_data": [
+                                        {
+                                          "order": 1,
+                                          "type": "compound-list-one",
+                                          "bg_color": "rgba(255,255,255,.05)",
+                                          "padding": "5px 10px 0px 10px",
+                                          "list_items": [{
+                                                  "icon": {
+                                                      "icon": "http://164.132.53.178:8888/images/Travel_Essentials/Essential_Mobile_Apps/food.png",
+                                                      "ico_width": "25px",
+                                                      "ico_height": "25px"
+                                                  },
+                                                  "title": {
+                                                      "text": "Food App - Delhivery",
+                                                      "font_size": "16px",
+                                                      "font_color": "#000000",
+                                                      "font_style": ""
+                                                  },
+                                                  "desc": {
+                                                      "text": "Order food 24/7",
+                                                      "font_size": "12px",
+                                                      "font_color": "#69737b",
+                                                      "font_style": ""
+                                                  },
+                                                  "right_icon": {
+                                                      "icon": "http://164.132.53.178:8888/images/Travel_Essentials/Essential_Mobile_Apps/free.png",
+                                                      "ico_width": "45px",
+                                                      "ico_height": "45px"
+                                                  }
+                                              }
+                                            ]
+                                         }
+                                    ]
+                                },
+                                {
+                                   "order": 4,
+                                   "type": "hline",
+                                   "height": "2px",
+                                   "color": "#dadee1"
+                                },
+                                {
+                                  "order": 5,
+                                  "type": "accordion",
+                                  "heading_bg": "#fffff",
+                                  "heading_padding": "10px 10px",
+                                  "heading": {
+                                      "text": "Travel",
+                                      "font_size": "15px",
+                                      "font_color": "#86919b",
+                                      "font_style": "bold"
+                                  },
+                                  "icon": {
+                                      "url": "https://www.shareicon.net/download/2016/07/08/793035_medical_512x512.png",
+                                      "ico_width": "24px",
+                                      "ico_height": "22px"
+                                  },
+                                  "section_bg": "rgba(255,255,255,.05)",
+                                  "section_data": [
+                                        {
+                                            "order": 1,
+                                            "type": "info-text",
+                                            "padding": "5px 15px",
+                                            "bg_color": "rgba(255,255,255,.05)",
+                                            "width": "100%",
+                                            "icon_section": {
+                                                "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                                "ico_width": "25px",
+                                                "ico_height": "25px"
+                                            },
+                                            "text_section": {
+                                                "width": "70%",
+                                                "text": "Address",
+                                                "font_color": "#86919bb",
+                                                "font_size": "14px",
+                                                "font_style": "bold"
+                                            },
+                                            "desc": {
+                                                "text": "1/1 23rd Street, Maple Road, Indonesia",
+                                                "font_color": "#69737b",
+                                                "font_size": "12px",
+                                                "font_style": ""
+                                            },
+                                            "value_section": {
+                                                "width": "30%",
+                                                "text": "",
+                                                "font_color": "#86919bb",
+                                                "font_size": "14px",
+                                                "font_style": ""
+                                            }
+                                         },
+                                        {
+                                            "order": 2,
+                                            "type": "info-text",
+                                            "padding": "5px 15px",
+                                            "bg_color": "rgba(255,255,255,.05)",
+                                            "width": "100%",
+                                            "icon_section": {
+                                                "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                                "ico_width": "25px",
+                                                "ico_height": "20px"
+                                            },
+                                            "text_section": {
+                                                "width": "70%",
+                                                "text": "Email",
+                                                "font_color": "#86919bb",
+                                                "font_size": "14px",
+                                                "font_style": "bold"
+                                            },
+                                            "desc": {
+                                                "text": "info@embassy.com",
+                                                "font_color": "#69737b",
+                                                "font_size": "12px",
+                                                "font_style": ""
+                                            },
+                                            "value_section": {
+                                                "width": "30%",
+                                                "text": "",
+                                                "font_color": "#86919bb",
+                                                "font_size": "14px",
+                                                "font_style": ""
+                                            }
+                                         },
+                                        {
+                                            "order": 3,
+                                            "type": "info-text",
+                                            "padding": "5px 15px",
+                                            "bg_color": "rgba(255,255,255,.05)",
+                                            "width": "100%",
+                                            "icon_section": {
+                                                "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                                "ico_width": "25px",
+                                                "ico_height": "25px"
+                                            },
+                                            "text_section": {
+                                                "width": "70%",
+                                                "text": "Phone",
+                                                "font_color": "#86919bb",
+                                                "font_size": "14px",
+                                                "font_style": "bold"
+                                            },
+                                            "desc": {
+                                                "text": "+001 1405 6730",
+                                                "font_color": "#69737b",
+                                                "font_size": "12px",
+                                                "font_style": ""
+                                            },
+                                            "value_section": {
+                                                "width": "30%",
+                                                "text": "",
+                                                "font_color": "#86919bb",
+                                                "font_size": "14px",
+                                                "font_style": ""
+                                            }
+                                         }
+                                    ]
+                                }
+                            ]
+                        }
+
+                    ]
+                }
+			]
+		}
+	]
+}

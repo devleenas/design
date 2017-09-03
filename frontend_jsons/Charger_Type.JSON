@@ -1,0 +1,364 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Travel Adaptor",
+			"expand_data": {
+				"visible_height": "500px",
+                "expand_label": "Show more",
+                "collapse_label": "Show less",
+				"font_size": "16px",
+				"font_color": "#33adff",
+				"font_style": "bold"
+			},
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Travel Adaptor for Bangalore",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://164.132.53.178:8888/images/Common/adapter.png",
+					"ico_height": "20px"
+				},
+				{
+                  "order": 2,
+                  "type": "carousel",
+                  "items": [
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeA.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type A",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeB.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type B",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeC.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type C",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeD.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type D",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeE.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type E",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeF.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type F",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeG.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type G",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeH.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type H",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeI.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type I",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeJ.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type J",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeK.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type K",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "with_bg",
+                              "url": "http://164.132.53.178:8888/images/Travel_Essentials/Charger/TypeL.png",
+                              "bg_color": "#33adff",
+                              "height": "180px",
+                              "image_width": "180px",
+                              "image_height": "180px"
+                          },
+                          "title": {
+                              "text": "Plug Type L",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      }
+                  ]
+              },
+                {
+                      "order": 3,
+                      "type": "info-text",
+                      "padding": "20px 20px",
+                      "bg_color": "rgba(134,145,155,.05)",
+                      "text_section": {
+                        "width": "75%",
+                        "text": "Trust Score",
+                        "font_color": "#69737b",
+                        "font_size": "15px",
+                        "font_style": ""
+                      },
+                      "value_section": {
+                      "width": "25%",
+                      "align_items": "right",
+                      "value_type": "score",
+                      "score": {
+                          "text": "7",
+                          "font_color": "#33d5b1",
+                          "font_size": "36px",
+                          "font_style": "bold"
+                      },
+                      "total": {
+                          "text": "/10",
+                          "font_color": "#86919b",
+                          "font_size": "15px",
+                          "font_style": "bold"
+                      }
+                  }
+                },
+                {
+                   "order": 4,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                  "order": 5,
+                  "type": "plain-text",
+                  "padding": "20px 20px",
+                  "text": "<b></b> 230v, 50Hz, Type A",
+                  "align_text": "center",
+                  "font_size": "25px",
+                  "font_color": "#33adff",
+                  "font_style": "bold"
+                },
+                {
+                   "order": 6,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 7,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidences",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": ""
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/Evidences.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "95%",
+								"text": "India Uses Type C and Type D",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": ""
+							},
+							"value_section": {
+								"width": "5%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				},
+                {
+                   "order": 8,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 9,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": ""
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/Recommendations.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "75%",
+								"text": "Buy an Universal Adaptor",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": ""
+							},
+							"value_section": {
+								"width": "25%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

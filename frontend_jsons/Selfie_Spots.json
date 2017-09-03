@@ -1,0 +1,75 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Selfie Spots",
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Selfie Spots in Galway",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://164.132.53.178:8888/images/Common/selfie.png",
+					"ico_height": "25px"
+				},
+				{
+                  "order": 2,
+                  "type": "carousel",
+                  "items": [
+                      {
+                          "image": {
+                              "type": "normal",
+                              "url": "http://d5qsyj6vaeh11.cloudfront.net/images/destinations/galway%20city/galway-city-top-nine-attractions/background.jpg",
+                              "height": "180px"
+                          },
+                          "title": {
+                              "text": "Salt Hill",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "normal",
+                              "url": "https://a.cdn-hotels.com/landing/images/42731732-f6cf-4f63-b7ad-bc3df1c2eeb7_20140610113452.jpg",
+                              "height": "180px"
+                          },
+                          "title": {
+                              "text": "Eyre Square",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      },
+                      {
+                          "image": {
+                              "type": "normal",
+                              "url": "http://www.travelireland.org/galway/images/kylemore_abbey_600x360.jpg",
+                              "height": "180px"
+                          },
+                          "title": {
+                              "text": "Kylemore Abbey",
+                              "font_size": "20px",
+                              "font_color": "#FFFFFF",
+                              "font_style": "bold"
+                          }
+                      }
+                  ]
+                },
+                {
+                   "order": 3,
+                   "type": "plain-text",
+                   "text": "Galway bla bla bla bla bla bla bla blabla bla bla blabla bla bla blabla bla bla bla",
+                   "align_text": "center",
+                   "padding": "5px",
+                   "font_size": "14px",
+                   "font_color": "#86919b",
+                   "font_style": "bold"
+               }
+			]
+		}
+	]
+}

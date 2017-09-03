@@ -1,0 +1,298 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Currency Details",
+             "template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Currency Used in India",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://164.132.53.178:8888/images/Common/currency.png",
+					"ico_height": "25px"
+				},
+                {
+                    "order": 2,
+                    "type": "image",
+                    "image_url": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/05/23/Photos/Processed/rupee1-kcsB--621x414@LiveMint.jpg",
+                    "image_height": "200px",
+                    "overlay": {
+                        "position": "bottom",
+                        "bg_color": "rgba(211,211,211,0.5)",
+                        "layout_type": "simple",
+                        "layout": {
+                            "text": "Currency used in India",
+                            "font_size": "16px",
+                            "font_color": "#ffffff",
+                            "text_align": "center",
+                            "font_style": "bold"
+                        }
+                    }
+                },
+				{
+                    "order": 3,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Rupees",
+                        "font_size": "20px",
+                        "font_color": "#1ed3e0",
+                        "font_style": "bold"
+                    },
+                    "value": {
+                       "type": "image",
+                        "url": "http://164.132.53.178:8888/images/Finances/Currency_Denominations/ruppee.png",
+                        "ico_width": "35px",
+                        "ico_height": "35px"
+                  }
+                },
+                {
+                    "order": 4,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": true,
+                    "label": {
+                        "text": "Paisa",
+                        "font_size": "20px",
+                        "font_color": "#1ed3e0",
+                        "font_style": "bold"
+                    },
+                    "value": {
+                       "type": "image",
+                        "url": "http://164.132.53.178:8888/images/Finances/Currency_Denominations/paisa.jpg",
+                        "ico_width": "35px",
+                        "ico_height": "35px"
+                  }
+                },
+                {
+                    "order": 5,
+                    "type": "info-text",
+                    "padding": "5px 15px",
+                    "bg_color": "rgba(255,255,255,.05)",
+                    "width": "100%",
+                    "icon_section": {
+                        "url": "http://164.132.53.178:8888/images/Finances/Currency_Denominations/notes.png",
+                        "ico_width": "25px",
+                        "ico_height": "20px"
+                    },
+                    "text_section": {
+                        "width": "70%",
+                        "text": "Notes",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": "bold"
+                    },
+                    "desc": {
+                        "text": "Common Denominations 10, 20, 50, 100, 500, 1000, 2000",
+                        "font_color": "#33adff",
+                        "font_size": "12px",
+                        "font_style": "bold"
+                    },
+                    "value_section": {
+                        "width": "30%",
+                        "text": "",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                    "order": 6,
+                    "type": "info-text",
+                    "padding": "5px 15px",
+                    "bg_color": "rgba(255,255,255,.05)",
+                    "width": "100%",
+                    "icon_section": {
+                        "url": "http://164.132.53.178:8888/images/Finances/Currency_Denominations/coins.png",
+                        "ico_width": "25px",
+                        "ico_height": "20px"
+                    },
+                    "text_section": {
+                        "width": "57%",
+                        "text": "Coins",
+                        "font_color": "#86919bb",
+                        "font_size": "14px",
+                        "font_style": "bold"
+                    },
+                    "desc": {
+                        "text": "Common Denominations       10, 20, 25, 50",
+                        "font_color": "#33adff",
+                        "font_size": "12px",
+                        "font_style": "bold"
+                    },
+                    "value_section": {
+                        "text": "",
+                        "font_color": "#69737b",
+                        "font_size": "14px",
+                        "font_style": "bold"
+                    }
+                },
+                {
+                   "order": 7,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                  "order": 8,
+                  "type": "info-text",
+                  "padding": "20px 20px",
+                  "bg_color": "rgba(134,145,155,.05)",
+                  "width":"100%",
+                  "text_section": {
+                      "width": "75%",
+                      "text": "Trust Score",
+                      "font_color": "#69737b",
+                      "font_size": "15px",
+                      "font_style": "bold"
+                  },
+                  "value_section": {
+                      "width": "25%",
+                      "align_items": "right",
+                      "value_type": "text",
+                      "text": "85%",
+                      "font_color": "#9FFF33",
+                      "font_size": "26px",
+                      "font_style": "bold"
+                  }
+                },
+                {
+                   "order": 9,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 10,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidence",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/evidences.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+                          "order": 1,
+                          "type": "icons-text",
+                          "padding": "5px 15px",
+                          "bg_color": "rgba(255,255,255,.05)",
+                          "item_margin": "5px 0px",
+                          "list_items": [
+                              {
+                                  "icon": {
+                                      "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                      "ico_width": "30px",
+                                      "ico_height": "30px",
+                                      "width": "10%"
+                                  },
+                                  "text": {
+                                      "text": "https://www.reuters.com/article/us-china-pollution/china-commits-to-cut-northern-air-pollution-by-15-percent-idUSKCN1B40CM",
+                                      "font_size": "12px",
+                                      "font_color": "#0000FF",
+                                      "font_style": "",
+                                      "width": "90%"
+                                  }
+                              }
+                          ]
+                      }
+					]
+				},
+                {
+                   "order": 11,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 12,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/recommendations.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+                            {
+                                "order": 1,
+                                "type": "info-text",
+                                "text_section": {
+                                    "width": "75%",
+                                    "text": "Currency Rate Revision",
+                                    "font_color": "#69737b",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "25%",
+                                    "align_items": "right",
+                                    "value_type": "text",
+                                    "text": "",
+                                    "font_color": "#ff7575",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                }
+                            },
+                            {
+                                "order": 2,
+                                "type": "info-text",
+                                "padding": "5px 15px",
+                                "bg_color": "rgba(255,255,255,.05)",
+                                "width": "100%",
+                                "icon_section": {
+                                    "url": "http://164.132.53.178:8888/images/Finances/Currency_Denominations/dollar.png",
+                                    "ico_width": "40px",
+                                    "ico_height": "35px"
+                                },
+                                "text_section": {
+                                    "width": "90%",
+                                    "text": "Check latest on XE.com",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                },
+                                "desc": {
+                                    "text": "",
+                                    "font_color": "#69737b",
+                                    "font_size": "12px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "10%",
+                                    "text": "",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                   }
+                                }
+                          ]
+                        }
+			]
+		}
+	]
+}

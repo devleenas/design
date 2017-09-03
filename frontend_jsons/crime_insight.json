@@ -1,0 +1,1219 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Crime Types",
+			"expand_data": {
+				 "visible_height": "370px",
+                 "expand_label": "Show more",
+                 "collapse_label": "Show less",
+                 "font_size": "16px",
+                 "font_color": "#33adff",
+                 "font_style": "bold"
+                      },
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Crime Incident in Manila",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://164.132.53.178:8888/images/Common/crime.jpg",
+					"ico_height": "30px"
+				},
+                {
+                   "order": 2,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 3,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": "true",
+                    "label": {
+                        "text": "Crime Rate Score",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": "bold"
+                    },
+                    "value": {
+                        "type": "score",
+                        "top_margin": "36px",
+                        "bottom_margin": "18px",
+                        "current": {
+                            "text": "3",
+                            "font_size": "40px",
+                            "font_color": "#ff7575",
+                            "font_style": "bold"
+                        },
+                        "total": {
+                            "text": "/5",
+                            "font_size": "23px",
+                            "font_color": "#86919b",
+                            "font_style": "bold"
+                        }
+                    }
+                },
+                {
+                    "order": 4,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": "true",
+                    "label": {
+                        "text": "Travel Recommendation",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": "bold"
+                    },
+                    "value" :{
+                      "type": "image",
+                      "url": "http://164.132.53.178:8888/images/Common/thumbsup.png",
+                      "ico_width": "36px",
+                      "ico_height": "36px"
+                  }
+                },
+                {
+					"order": 5,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Theft",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Crime_Safety/Local_Crime/theft.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/score.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Score",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "7/10",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "7/10",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/date.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Last Occurred",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "Last Week",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                  "ico_width": "28px",
+                                  "ico_height": "30px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Link to News",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "https://www.thesun.co.uk/Manila/",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 6,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 7,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Pick Pocketing",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Crime_Safety/Local_Crime/pickpocket.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/score.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Score",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "7/10",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "7/10",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/date.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Last Occurred",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "Last Week",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                  "ico_width": "28px",
+                                  "ico_height": "30px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Link to News",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "https://www.thesun.co.uk/Manila/",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 8,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 9,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Auto Theft",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Crime_Safety/Local_Crime/auto_theft.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/score.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Score",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "7/10",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "7/10",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/date.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Last Occurred",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "Last Week",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                  "ico_width": "28px",
+                                  "ico_height": "30px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Link to News",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "https://www.thesun.co.uk/Manila/",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 10,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 11,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Robbery",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Crime_Safety/Local_Crime/robbery.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/score.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Score",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "7/10",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "7/10",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/date.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Last Occurred",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "Last Week",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                  "ico_width": "28px",
+                                  "ico_height": "30px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Link to News",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "https://www.thesun.co.uk/Manila/",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 12,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 13,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Rape",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Crime_Safety/Local_Crime/auto_theft.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/score.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Score",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "7/10",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "7/10",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/date.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Last Occurred",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "Last Week",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                  "ico_width": "28px",
+                                  "ico_height": "30px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Link to News",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "https://www.thesun.co.uk/Manila/",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 14,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 15,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Homicide",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Crime_Safety/Local_Crime/homicide.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/score.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Score",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "7/10",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "7/10",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/date.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Last Occurred",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "Last Week",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                  "ico_width": "28px",
+                                  "ico_height": "30px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Link to News",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "https://www.thesun.co.uk/Manila/",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 16,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 17,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Terrorism",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Crime_Safety/Local_Crime/terrorism.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/score.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Score",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "7/10",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "7/10",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/date.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Last Occurred",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "Last Week",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                  "ico_width": "28px",
+                                  "ico_height": "30px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Link to News",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "https://www.thesun.co.uk/Manila/",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 18,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 19,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Kidnapping",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Crime_Safety/Local_Crime/kidnap.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/score.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Score",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "7/10",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "7/10",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/date.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Last Occurred",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "Last Week",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 3,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                  "ico_width": "28px",
+                                  "ico_height": "30px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Link to News",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": "bold"
+                              },
+                              "desc": {
+                                  "text": "https://www.thesun.co.uk/Manila/",
+                                  "font_color": "#69737b",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+                    ]
+				},
+                {
+                   "order": 20,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+                  "order": 21,
+                  "type": "info-text",
+                  "padding": "20px 20px",
+                  "bg_color": "rgba(134,145,155,.05)",
+                  "text_section": {
+                    "width": "75%",
+                    "text": "Trust Score",
+                    "font_color": "#69737b",
+                    "font_size": "15px",
+                    "font_style": ""
+                  },
+                  "value_section": {
+                    "width": "25%",
+                    "align_items": "right",
+                    "value_type": "score",
+                    "score": {
+                        "text": "7",
+                        "font_color": "#33d5b1",
+                        "font_size": "36px",
+                        "font_style": "bold"
+                    },
+                    "total": {
+                        "text": "/10",
+                        "font_color": "#86919b",
+                        "font_size": "15px",
+                        "font_style": "bold"
+                     }
+                   }
+                },
+                {
+                   "order": 22,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 23,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidence",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/evidences.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+                          "order": 1,
+                          "type": "icons-text",
+                          "padding": "5px 15px",
+                          "bg_color": "rgba(255,255,255,.05)",
+                          "item_margin": "5px 0px",
+                          "list_items": [
+                              {
+                                  "icon": {
+                                      "url": "http://164.132.53.178:8888/images/Common/news.png",
+                                      "ico_width": "30px",
+                                      "ico_height": "30px",
+                                      "width": "10%"
+                                  },
+                                  "text": {
+                                      "text": "https://www.reuters.com/article/us-china-pollution/china-commits-to-cut-northern-air-pollution-by-15-percent-idUSKCN1B40CM",
+                                      "font_size": "12px",
+                                      "font_color": "#0000FF",
+                                      "font_style": "",
+                                      "width": "90%"
+                                  }
+                              }
+                          ]
+                      }
+					]
+				},
+                {
+                   "order": 24,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 25,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/recommendations.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+                            {
+                                "order": 1,
+                                "type": "info-text",
+                                "text_section": {
+                                    "width": "75%",
+                                    "text": "Safe for Travel",
+                                    "font_color": "#69737b",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "25%",
+                                    "align_items": "right",
+                                    "value_type": "text",
+                                    "text": "",
+                                    "font_color": "#ff7575",
+                                    "font_size": "15px",
+                                    "font_style": ""
+                                }
+                            },
+                            {
+                                "order": 2,
+                                "type": "info-text",
+                                "padding": "5px 15px",
+                                "bg_color": "rgba(255,255,255,.05)",
+                                "width": "100%",
+                                "icon_section": {
+                                    "url": "http://icon-icons.com/icons2/862/PNG/512/phone_icon-icons.com_67849.png",
+                                    "ico_width": "35px",
+                                    "ico_height": "35px"
+                                },
+                                "text_section": {
+                                    "width": "90%",
+                                    "text": "Contact Embassy in Emergency",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                },
+                                "desc": {
+                                    "text": "",
+                                    "font_color": "#69737b",
+                                    "font_size": "12px",
+                                    "font_style": ""
+                                },
+                                "value_section": {
+                                    "width": "10%",
+                                    "text": "",
+                                    "font_color": "#86919bb",
+                                    "font_size": "14px",
+                                    "font_style": ""
+                                   }
+                                }
+                          ]
+                        }
+			]
+		}
+	]
+}

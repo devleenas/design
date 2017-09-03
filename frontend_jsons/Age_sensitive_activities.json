@@ -1,0 +1,445 @@
+{
+	"insights": [
+		{
+			"id": 1,
+			"name": "Age Sensitivity",
+			"expand_data": {
+				 "visible_height": "350px",
+                 "expand_label": "Show more",
+                 "collapse_label": "Show less",
+                 "font_size": "16px",
+                 "font_color": "#33adff",
+                 "font_style": "bold"
+                      },
+			"template": [
+				{
+					"order": 1,
+					"type": "heading",
+					"text": "Age Sensitivity in India",
+					"font_size": "15px",
+					"font_color": "#0b3450",
+					"font_style": "",
+					"icon": "http://164.132.53.178:8888/images/Common/age_sensitivity.jpeg",
+					"ico_height": "25px"
+				},
+                {
+                   "order": 2,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+                    "order": 3,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": "true",
+                    "label": {
+                        "text": "Difficulty Score",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value": {
+                        "type": "score",
+                        "top_margin": "36px",
+                        "current": {
+                            "text": "3",
+                            "font_size": "40px",
+                            "font_color": "#ff7575",
+                            "font_style": "bold"
+                        },
+                        "total": {
+                            "text": "/5",
+                            "font_size": "23px",
+                            "font_color": "#86919b",
+                            "font_style": "bold"
+                        }
+                    }
+                },
+                {
+                    "order": 4,
+                    "type": "two-column-text",
+                    "width": "50%",
+                    "padding": "5px",
+                    "bg_color": "rgba(134,145,155,.05)",
+                    "show_right_border": "true",
+                    "label": {
+                        "text": "Travel Recommendation",
+                        "font_size": "12px",
+                        "font_color": "#86919b",
+                        "font_style": ""
+                    },
+                    "value" :{
+                      "type": "image",
+                      "url": "http://164.132.53.178:8888/images/Common/thumbsup.png",
+                      "ico_width": "30px",
+                      "ico_height": "30px"
+                  }
+                },
+                {
+					"order": 5,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Marriage",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://www.shareicon.net/download/2016/07/08/793035_medical_512x512.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://164.132.53.178:8888/images/Common/18_plus.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Age",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              },
+                              "desc": {
+                                  "text": "18+",
+                                  "font_color": "#69737b",
+                                  "font_size": "15px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Country Rules",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#0000FF",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 6,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 7,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Sex",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://www.shareicon.net/download/2016/07/08/793035_medical_512x512.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Age",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              },
+                              "desc": {
+                                  "text": "18+",
+                                  "font_color": "#69737b",
+                                  "font_size": "15px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Country Rules",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#0000FF",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 8,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 9,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Casino",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://www.shareicon.net/download/2016/07/08/793035_medical_512x512.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Age",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              },
+                              "desc": {
+                                  "text": "18+",
+                                  "font_color": "#69737b",
+                                  "font_size": "15px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Country Rules",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#0000FF",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 10,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 11,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Drinking",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": "bold"
+					},
+					"icon": {
+						"url": "https://www.shareicon.net/download/2016/07/08/793035_medical_512x512.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						  {
+                              "order": 1,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "https://cdn1.iconfinder.com/data/icons/powerful-seo-icon-set/512/google_place__.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "25px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Age",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              },
+                              "desc": {
+                                  "text": "18+",
+                                  "font_color": "#69737b",
+                                  "font_size": "15px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           },
+                          {
+                              "order": 2,
+                              "type": "info-text",
+                              "padding": "5px 15px",
+                              "bg_color": "rgba(255,255,255,.05)",
+                              "width": "100%",
+                              "icon_section": {
+                                  "url": "http://freevector.co/wp-content/uploads/2013/07/gmail-icon.png",
+                                  "ico_width": "25px",
+                                  "ico_height": "20px"
+                              },
+                              "text_section": {
+                                  "width": "70%",
+                                  "text": "Country Rules",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              },
+                              "desc": {
+                                  "text": "info@embassy.com",
+                                  "font_color": "#0000FF",
+                                  "font_size": "12px",
+                                  "font_style": ""
+                              },
+                              "value_section": {
+                                  "width": "30%",
+                                  "text": "",
+                                  "font_color": "#86919bb",
+                                  "font_size": "14px",
+                                  "font_style": ""
+                              }
+                           }
+					  ]
+				},
+                {
+                   "order": 12,
+                   "type": "hline",
+                   "height": "1px",
+                   "color": "#dadee1"
+                }
+
+			]
+		}
+	]
+}

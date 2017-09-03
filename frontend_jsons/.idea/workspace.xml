@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="891f6469-17e6-4843-8996-c3c7f5b72158" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Age_sensitive_activities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Charger_Type.JSON" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Currency_Details.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Emergency_Contacts.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Indian_Embassy.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jet_Lag.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Local_Accomodation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Selfie_Spots.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tipping_Insight.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Travel_Insurance.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Visa.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/air_pollution.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/altitude_sickness.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crime_insight.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile_applications.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sunscreen.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weather.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mobile_applications.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile_applications.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="145" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="308" selection-end-column="1" />
+              <folding>
+                <element signature="e#2403#4549#0" expanded="false" />
+                <element signature="e#4591#6754#0" expanded="false" />
+                <element signature="e#6860#7100#0" expanded="false" />
+                <element signature="e#8165#10311#0" expanded="false" />
+                <element signature="e#10417#10657#0" expanded="false" />
+                <element signature="e#10691#17983#0" expanded="false" />
+                <element signature="e#11724#13786#0" expanded="false" />
+                <element signature="e#13828#15845#0" expanded="false" />
+                <element signature="e#15887#17911#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Age_sensitive_activities.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Age_sensitive_activities.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="90" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="90" />
+              <folding>
+                <element signature="e#2832#6505#0" expanded="false" />
+                <element signature="e#6523#6683#0" expanded="false" />
+                <element signature="e#6701#10400#0" expanded="false" />
+                <element signature="e#10418#10578#0" expanded="false" />
+                <element signature="e#10596#14298#0" expanded="false" />
+                <element signature="e#14316#14477#0" expanded="false" />
+                <element signature="e#14495#18200#0" expanded="false" />
+                <element signature="e#18218#18379#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>trav</find>
+      <find>more</find>
+      <find>trust</find>
+      <find>diffe</find>
+      <find>Wine</find>
+      <find>outd</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SIM_Purchase.json" />
+        <option value="$PROJECT_DIR$/Visa.json" />
+        <option value="$PROJECT_DIR$/weather.json" />
+        <option value="$PROJECT_DIR$/Emergency_Contacts.json" />
+        <option value="$PROJECT_DIR$/test.json" />
+        <option value="$PROJECT_DIR$/air_pollution.json" />
+        <option value="$PROJECT_DIR$/Charger_Type.JSON" />
+        <option value="$PROJECT_DIR$/crime_insight.json" />
+        <option value="$PROJECT_DIR$/Currency_Details.json" />
+        <option value="$PROJECT_DIR$/Selfie_Spots.json" />
+        <option value="$PROJECT_DIR$/Tipping_Insight.json" />
+        <option value="$PROJECT_DIR$/Travel_Insurance.json" />
+        <option value="$PROJECT_DIR$/altitude_sickness.json" />
+        <option value="$PROJECT_DIR$/sunscreen.json" />
+        <option value="$PROJECT_DIR$/Age_sensitive_activities.json" />
+        <option value="$PROJECT_DIR$/Indian_Embassy.json" />
+        <option value="$PROJECT_DIR$/Jet_Lag.json" />
+        <option value="$PROJECT_DIR$/Local_Accomodation.json" />
+        <option value="$PROJECT_DIR$/mobile_applications.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend_jsons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend_jsons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="frontend_jsons" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="frontend_jsons" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="frontend_jsons" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="frontend_jsons" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="891f6469-17e6-4843-8996-c3c7f5b72158" name="Default" comment="" />
+      <created>1503386683758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503386683758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Selfie_Spots.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="245" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jet_Lag.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Travel_Insurance.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visa.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="145" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="374" selection-end-column="1" />
+          <folding>
+            <element signature="e#210#496#0" expanded="false" />
+            <element signature="e#514#1302#0" expanded="false" />
+            <element signature="e#1320#2159#0" expanded="false" />
+            <element signature="e#7212#9061#0" expanded="false" />
+            <element signature="e#9079#9240#0" expanded="false" />
+            <element signature="e#9258#10033#0" expanded="false" />
+            <element signature="e#10051#10212#0" expanded="false" />
+            <element signature="e#10230#10994#0" expanded="false" />
+            <element signature="e#11012#11173#0" expanded="false" />
+            <element signature="e#11191#12199#0" expanded="false" />
+            <element signature="e#12217#12378#0" expanded="false" />
+            <element signature="e#12396#13361#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emergency_Contacts.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="152" column="17" lean-forward="true" selection-start-line="152" selection-start-column="17" selection-end-line="152" selection-end-column="17" />
+          <folding>
+            <element signature="e#376#669#0" expanded="false" />
+            <element signature="e#687#847#0" expanded="false" />
+            <element signature="e#865#6227#0" expanded="false" />
+            <element signature="e#1355#2983#0" expanded="false" />
+            <element signature="e#3011#4594#0" expanded="false" />
+            <element signature="e#4622#6212#0" expanded="false" />
+            <element signature="e#6245#6405#0" expanded="false" />
+            <element signature="e#6927#8555#0" expanded="false" />
+            <element signature="e#8583#10166#0" expanded="false" />
+            <element signature="e#10194#11784#0" expanded="false" />
+            <element signature="e#12504#14132#0" expanded="false" />
+            <element signature="e#14160#15743#0" expanded="false" />
+            <element signature="e#15771#17361#0" expanded="false" />
+            <element signature="e#17392#17552#0" expanded="false" />
+            <element signature="e#17570#22969#0" expanded="false" />
+            <element signature="e#18099#19727#0" expanded="false" />
+            <element signature="e#19755#21338#0" expanded="false" />
+            <element signature="e#21366#22956#0" expanded="false" />
+            <element signature="e#22987#23148#0" expanded="false" />
+            <element signature="e#23166#28496#0" expanded="false" />
+            <element signature="e#23626#25254#0" expanded="false" />
+            <element signature="e#25282#26865#0" expanded="false" />
+            <element signature="e#26893#28483#0" expanded="false" />
+            <element signature="e#28514#28675#0" expanded="false" />
+            <element signature="e#28693#34094#0" expanded="false" />
+            <element signature="e#29224#30852#0" expanded="false" />
+            <element signature="e#30880#32463#0" expanded="false" />
+            <element signature="e#32491#34081#0" expanded="false" />
+            <element signature="e#34112#34273#0" expanded="false" />
+            <element signature="e#34291#39643#0" expanded="false" />
+            <element signature="e#34773#36401#0" expanded="false" />
+            <element signature="e#36429#38012#0" expanded="false" />
+            <element signature="e#38040#39630#0" expanded="false" />
+            <element signature="e#39661#39822#0" expanded="false" />
+            <element signature="e#39840#45217#0" expanded="false" />
+            <element signature="e#40347#41975#0" expanded="false" />
+            <element signature="e#42003#43586#0" expanded="false" />
+            <element signature="e#43614#45204#0" expanded="false" />
+            <element signature="e#45235#45396#0" expanded="false" />
+            <element signature="e#45414#50804#0" expanded="false" />
+            <element signature="e#45934#47562#0" expanded="false" />
+            <element signature="e#47590#49173#0" expanded="false" />
+            <element signature="e#49201#50791#0" expanded="false" />
+            <element signature="e#50822#50983#0" expanded="false" />
+            <element signature="e#51001#54260#0" expanded="false" />
+            <element signature="e#54278#54439#0" expanded="false" />
+            <element signature="e#54457#57677#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crime_insight.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="317" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Age_sensitive_activities.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tipping_Insight.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="162" column="22" lean-forward="true" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
+          <folding>
+            <element signature="e#739#899#0" expanded="false" />
+            <element signature="e#917#6276#0" expanded="false" />
+            <element signature="e#1404#3032#0" expanded="false" />
+            <element signature="e#3060#4643#0" expanded="false" />
+            <element signature="e#4671#6261#0" expanded="false" />
+            <element signature="e#6294#6454#0" expanded="false" />
+            <element signature="e#6982#8610#0" expanded="false" />
+            <element signature="e#8638#10221#0" expanded="false" />
+            <element signature="e#10249#11839#0" expanded="false" />
+            <element signature="e#12568#14196#0" expanded="false" />
+            <element signature="e#14224#15807#0" expanded="false" />
+            <element signature="e#15835#17425#0" expanded="false" />
+            <element signature="e#18165#19793#0" expanded="false" />
+            <element signature="e#19821#21404#0" expanded="false" />
+            <element signature="e#21432#23022#0" expanded="false" />
+            <element signature="e#23690#25318#0" expanded="false" />
+            <element signature="e#25346#26929#0" expanded="false" />
+            <element signature="e#26957#28547#0" expanded="false" />
+            <element signature="e#29290#30918#0" expanded="false" />
+            <element signature="e#30946#32529#0" expanded="false" />
+            <element signature="e#32557#34147#0" expanded="false" />
+            <element signature="e#34842#36470#0" expanded="false" />
+            <element signature="e#36498#38081#0" expanded="false" />
+            <element signature="e#38109#39699#0" expanded="false" />
+            <element signature="e#40416#42044#0" expanded="false" />
+            <element signature="e#42072#43655#0" expanded="false" />
+            <element signature="e#43683#45273#0" expanded="false" />
+            <element signature="e#45994#47622#0" expanded="false" />
+            <element signature="e#47650#49233#0" expanded="false" />
+            <element signature="e#49261#50851#0" expanded="false" />
+            <element signature="e#51565#53193#0" expanded="false" />
+            <element signature="e#53221#54804#0" expanded="false" />
+            <element signature="e#54832#56422#0" expanded="false" />
+            <element signature="e#57142#58770#0" expanded="false" />
+            <element signature="e#58798#60381#0" expanded="false" />
+            <element signature="e#60409#61999#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Local_Accomodation.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="480" column="31" lean-forward="false" selection-start-line="480" selection-start-column="31" selection-end-line="480" selection-end-column="31" />
+          <folding>
+            <element signature="e#778#1353#0" expanded="false" />
+            <element signature="e#1379#1954#0" expanded="false" />
+            <element signature="e#4016#4176#0" expanded="false" />
+            <element signature="e#4194#9532#0" expanded="false" />
+            <element signature="e#4662#6290#0" expanded="false" />
+            <element signature="e#6318#7901#0" expanded="false" />
+            <element signature="e#7929#9519#0" expanded="false" />
+            <element signature="e#9550#9710#0" expanded="false" />
+            <element signature="e#9728#15091#0" expanded="false" />
+            <element signature="e#10213#11842#0" expanded="false" />
+            <element signature="e#11870#13456#0" expanded="false" />
+            <element signature="e#13484#15078#0" expanded="false" />
+            <element signature="e#15109#15269#0" expanded="false" />
+            <element signature="e#15832#17461#0" expanded="false" />
+            <element signature="e#17489#19075#0" expanded="false" />
+            <element signature="e#19103#20697#0" expanded="false" />
+            <element signature="e#21439#23068#0" expanded="false" />
+            <element signature="e#23096#24682#0" expanded="false" />
+            <element signature="e#24710#26304#0" expanded="false" />
+            <element signature="e#26335#26496#0" expanded="false" />
+            <element signature="e#28007#28488#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_applications.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="60" column="57" lean-forward="false" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
+          <folding>
+            <element signature="e#234#623#0" expanded="false" />
+            <element signature="e#4591#6754#0" expanded="false" />
+            <element signature="e#6860#7100#0" expanded="false" />
+            <element signature="e#7134#10383#0" expanded="false" />
+            <element signature="e#8165#10311#0" expanded="false" />
+            <element signature="e#10417#10657#0" expanded="false" />
+            <element signature="e#10691#17983#0" expanded="false" />
+            <element signature="e#11724#13786#0" expanded="false" />
+            <element signature="e#13828#15845#0" expanded="false" />
+            <element signature="e#15887#17911#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIM_Purchase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="136" column="11" lean-forward="false" selection-start-line="117" selection-start-column="10" selection-end-line="136" selection-end-column="11" />
+          <folding>
+            <element signature="e#119#502#0" expanded="false" />
+            <element signature="e#514#1093#0" expanded="false" />
+            <element signature="e#1105#2527#0" expanded="false" />
+            <element signature="e#1421#2515#0" expanded="false" />
+            <element signature="e#2539#3987#0" expanded="false" />
+            <element signature="e#4592#5171#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Charger_Type.JSON">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/air_pollution.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="e#1465#2637#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jet_Lag.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="188" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visa.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <element signature="e#210#496#0" expanded="false" />
+            <element signature="e#514#1302#0" expanded="false" />
+            <element signature="e#1320#2159#0" expanded="false" />
+            <element signature="e#7212#9061#0" expanded="false" />
+            <element signature="e#9079#9240#0" expanded="false" />
+            <element signature="e#9258#10033#0" expanded="false" />
+            <element signature="e#10051#10212#0" expanded="false" />
+            <element signature="e#10230#10994#0" expanded="false" />
+            <element signature="e#11012#11173#0" expanded="false" />
+            <element signature="e#11191#12199#0" expanded="false" />
+            <element signature="e#12217#12378#0" expanded="false" />
+            <element signature="e#12396#13361#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="167" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="236" selection-end-column="1" />
+          <folding>
+            <element signature="e#213#478#0" expanded="false" />
+            <element signature="e#496#1026#0" expanded="false" />
+            <element signature="e#1044#3715#0" expanded="false" />
+            <element signature="e#3733#3893#0" expanded="false" />
+            <element signature="e#6065#6225#0" expanded="false" />
+            <element signature="e#6243#7425#0" expanded="false" />
+            <element signature="e#7443#8639#0" expanded="false" />
+            <element signature="e#8657#8818#0" expanded="false" />
+            <element signature="e#8836#9663#0" expanded="false" />
+            <element signature="e#9681#10566#0" expanded="false" />
+            <element signature="e#10584#11592#0" expanded="false" />
+            <element signature="e#11610#11771#0" expanded="false" />
+            <element signature="e#11789#12754#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIM_Purchase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#119#502#0" expanded="false" />
+            <element signature="e#514#1093#0" expanded="false" />
+            <element signature="e#1105#2527#0" expanded="false" />
+            <element signature="e#1421#2515#0" expanded="false" />
+            <element signature="e#2539#3987#0" expanded="false" />
+            <element signature="e#4592#5171#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Charger_Type.JSON">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="126" column="52" lean-forward="false" selection-start-line="126" selection-start-column="52" selection-end-line="126" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIM_Purchase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#119#502#0" expanded="false" />
+            <element signature="e#514#1093#0" expanded="false" />
+            <element signature="e#1105#2527#0" expanded="false" />
+            <element signature="e#1421#2515#0" expanded="false" />
+            <element signature="e#2539#3987#0" expanded="false" />
+            <element signature="e#4592#5171#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIM_Purchase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#119#502#0" expanded="false" />
+            <element signature="e#514#1093#0" expanded="false" />
+            <element signature="e#1105#2527#0" expanded="false" />
+            <element signature="e#1421#2515#0" expanded="false" />
+            <element signature="e#2539#3987#0" expanded="false" />
+            <element signature="e#4592#5171#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIM_Purchase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="34" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <element signature="e#119#502#0" expanded="false" />
+            <element signature="e#514#1093#0" expanded="false" />
+            <element signature="e#1105#2527#0" expanded="false" />
+            <element signature="e#1421#2515#0" expanded="false" />
+            <element signature="e#2539#3987#0" expanded="false" />
+            <element signature="e#4592#5171#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Charger_Type.JSON">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="246" column="48" lean-forward="false" selection-start-line="246" selection-start-column="42" selection-end-line="246" selection-end-column="48" />
+          <folding>
+            <element signature="e#584#9825#0" expanded="false" />
+            <element signature="e#11202#11552#0" expanded="false" />
+            <element signature="e#11748#12704#0" expanded="false" />
+            <element signature="e#12722#12882#0" expanded="false" />
+            <element signature="e#12900#13864#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="119" column="16" lean-forward="true" selection-start-line="89" selection-start-column="32" selection-end-line="119" selection-end-column="16" />
+          <folding>
+            <element signature="e#16#972#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tipping_Insight.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#739#899#0" expanded="false" />
+            <element signature="e#917#6276#0" expanded="false" />
+            <element signature="e#1404#3032#0" expanded="false" />
+            <element signature="e#3060#4643#0" expanded="false" />
+            <element signature="e#4671#6261#0" expanded="false" />
+            <element signature="e#6294#6454#0" expanded="false" />
+            <element signature="e#6982#8610#0" expanded="false" />
+            <element signature="e#8638#10221#0" expanded="false" />
+            <element signature="e#10249#11839#0" expanded="false" />
+            <element signature="e#12568#14196#0" expanded="false" />
+            <element signature="e#14224#15807#0" expanded="false" />
+            <element signature="e#15835#17425#0" expanded="false" />
+            <element signature="e#18165#19793#0" expanded="false" />
+            <element signature="e#19821#21404#0" expanded="false" />
+            <element signature="e#21432#23022#0" expanded="false" />
+            <element signature="e#23690#25318#0" expanded="false" />
+            <element signature="e#25346#26929#0" expanded="false" />
+            <element signature="e#26957#28547#0" expanded="false" />
+            <element signature="e#29290#30918#0" expanded="false" />
+            <element signature="e#30946#32529#0" expanded="false" />
+            <element signature="e#32557#34147#0" expanded="false" />
+            <element signature="e#34842#36470#0" expanded="false" />
+            <element signature="e#36498#38081#0" expanded="false" />
+            <element signature="e#38109#39699#0" expanded="false" />
+            <element signature="e#40416#42044#0" expanded="false" />
+            <element signature="e#42072#43655#0" expanded="false" />
+            <element signature="e#43683#45273#0" expanded="false" />
+            <element signature="e#45994#47622#0" expanded="false" />
+            <element signature="e#47650#49233#0" expanded="false" />
+            <element signature="e#49261#50851#0" expanded="false" />
+            <element signature="e#51565#53193#0" expanded="false" />
+            <element signature="e#53221#54804#0" expanded="false" />
+            <element signature="e#54832#56422#0" expanded="false" />
+            <element signature="e#57142#58770#0" expanded="false" />
+            <element signature="e#58798#60381#0" expanded="false" />
+            <element signature="e#60409#61999#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="122" column="48" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="365" selection-end-column="1" />
+          <folding>
+            <element signature="e#213#478#0" expanded="false" />
+            <element signature="e#496#1026#0" expanded="false" />
+            <element signature="e#1044#3715#0" expanded="false" />
+            <element signature="e#3733#3893#0" expanded="false" />
+            <element signature="e#6065#6225#0" expanded="false" />
+            <element signature="e#6243#7425#0" expanded="false" />
+            <element signature="e#7443#8639#0" expanded="false" />
+            <element signature="e#8657#8818#0" expanded="false" />
+            <element signature="e#8836#9663#0" expanded="false" />
+            <element signature="e#9681#10566#0" expanded="false" />
+            <element signature="e#10584#11592#0" expanded="false" />
+            <element signature="e#11610#11771#0" expanded="false" />
+            <element signature="e#11789#12754#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visa.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="122" column="46" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="374" selection-end-column="1" />
+          <folding>
+            <element signature="e#210#496#0" expanded="false" />
+            <element signature="e#514#1302#0" expanded="false" />
+            <element signature="e#1320#2159#0" expanded="false" />
+            <element signature="e#7212#9061#0" expanded="false" />
+            <element signature="e#9079#9240#0" expanded="false" />
+            <element signature="e#9258#10033#0" expanded="false" />
+            <element signature="e#10051#10212#0" expanded="false" />
+            <element signature="e#10230#10994#0" expanded="false" />
+            <element signature="e#11012#11173#0" expanded="false" />
+            <element signature="e#11191#12199#0" expanded="false" />
+            <element signature="e#12217#12378#0" expanded="false" />
+            <element signature="e#12396#13361#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Travel_Insurance.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="144" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="216" selection-end-column="1" />
+          <folding>
+            <element signature="e#2057#5522#0" expanded="false" />
+            <element signature="e#5540#5700#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/air_pollution.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="228" column="92" lean-forward="false" selection-start-line="228" selection-start-column="32" selection-end-line="228" selection-end-column="92" />
+          <folding>
+            <element signature="e#3558#3718#0" expanded="false" />
+            <element signature="e#6191#6351#0" expanded="false" />
+            <element signature="e#6369#8094#0" expanded="false" />
+            <element signature="e#8112#8272#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crime_insight.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4317">
+          <caret line="1133" column="27" lean-forward="true" selection-start-line="1133" selection-start-column="27" selection-end-line="1133" selection-end-column="27" />
+          <folding>
+            <element signature="e#826#2048#0" expanded="false" />
+            <element signature="e#2066#2856#0" expanded="false" />
+            <element signature="e#4947#6518#0" expanded="false" />
+            <element signature="e#6546#8139#0" expanded="false" />
+            <element signature="e#8172#8332#0" expanded="false" />
+            <element signature="e#8846#10409#0" expanded="false" />
+            <element signature="e#10437#12008#0" expanded="false" />
+            <element signature="e#12036#13629#0" expanded="false" />
+            <element signature="e#13662#13822#0" expanded="false" />
+            <element signature="e#14332#15895#0" expanded="false" />
+            <element signature="e#15923#17494#0" expanded="false" />
+            <element signature="e#17522#19115#0" expanded="false" />
+            <element signature="e#19148#19309#0" expanded="false" />
+            <element signature="e#19814#21377#0" expanded="false" />
+            <element signature="e#21405#22976#0" expanded="false" />
+            <element signature="e#23004#24597#0" expanded="false" />
+            <element signature="e#24630#24791#0" expanded="false" />
+            <element signature="e#25296#26859#0" expanded="false" />
+            <element signature="e#26887#28458#0" expanded="false" />
+            <element signature="e#28486#30079#0" expanded="false" />
+            <element signature="e#30112#30273#0" expanded="false" />
+            <element signature="e#30780#32343#0" expanded="false" />
+            <element signature="e#32371#33942#0" expanded="false" />
+            <element signature="e#33970#35563#0" expanded="false" />
+            <element signature="e#35596#35757#0" expanded="false" />
+            <element signature="e#36266#37829#0" expanded="false" />
+            <element signature="e#37857#39428#0" expanded="false" />
+            <element signature="e#39456#41049#0" expanded="false" />
+            <element signature="e#41082#41243#0" expanded="false" />
+            <element signature="e#41750#43313#0" expanded="false" />
+            <element signature="e#43341#44912#0" expanded="false" />
+            <element signature="e#44940#46533#0" expanded="false" />
+            <element signature="e#49966#53190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Currency_Details.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="261" column="43" lean-forward="true" selection-start-line="261" selection-start-column="43" selection-end-line="261" selection-end-column="43" />
+          <folding>
+            <element signature="e#375#1202#0" expanded="false" />
+            <element signature="e#6533#6693#0" expanded="false" />
+            <element signature="e#8455#8616#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emergency_Contacts.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="153" column="31" lean-forward="true" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="31" />
+          <folding>
+            <element signature="e#376#669#0" expanded="false" />
+            <element signature="e#687#847#0" expanded="false" />
+            <element signature="e#865#6227#0" expanded="false" />
+            <element signature="e#1355#2983#0" expanded="false" />
+            <element signature="e#3011#4594#0" expanded="false" />
+            <element signature="e#4622#6212#0" expanded="false" />
+            <element signature="e#6245#6405#0" expanded="false" />
+            <element signature="e#6927#8555#0" expanded="false" />
+            <element signature="e#8583#10166#0" expanded="false" />
+            <element signature="e#10194#11784#0" expanded="false" />
+            <element signature="e#12504#14132#0" expanded="false" />
+            <element signature="e#14160#15743#0" expanded="false" />
+            <element signature="e#15771#17361#0" expanded="false" />
+            <element signature="e#17392#17552#0" expanded="false" />
+            <element signature="e#17570#22969#0" expanded="false" />
+            <element signature="e#18099#19727#0" expanded="false" />
+            <element signature="e#19755#21338#0" expanded="false" />
+            <element signature="e#21366#22956#0" expanded="false" />
+            <element signature="e#22987#23148#0" expanded="false" />
+            <element signature="e#23166#28496#0" expanded="false" />
+            <element signature="e#23626#25254#0" expanded="false" />
+            <element signature="e#25282#26865#0" expanded="false" />
+            <element signature="e#26893#28483#0" expanded="false" />
+            <element signature="e#28514#28675#0" expanded="false" />
+            <element signature="e#28693#34094#0" expanded="false" />
+            <element signature="e#29224#30852#0" expanded="false" />
+            <element signature="e#30880#32463#0" expanded="false" />
+            <element signature="e#32491#34081#0" expanded="false" />
+            <element signature="e#34112#34273#0" expanded="false" />
+            <element signature="e#34291#39643#0" expanded="false" />
+            <element signature="e#34773#36401#0" expanded="false" />
+            <element signature="e#36429#38012#0" expanded="false" />
+            <element signature="e#38040#39630#0" expanded="false" />
+            <element signature="e#39661#39822#0" expanded="false" />
+            <element signature="e#39840#45217#0" expanded="false" />
+            <element signature="e#40347#41975#0" expanded="false" />
+            <element signature="e#42003#43586#0" expanded="false" />
+            <element signature="e#43614#45204#0" expanded="false" />
+            <element signature="e#45235#45396#0" expanded="false" />
+            <element signature="e#45414#50804#0" expanded="false" />
+            <element signature="e#45934#47562#0" expanded="false" />
+            <element signature="e#47590#49173#0" expanded="false" />
+            <element signature="e#49201#50791#0" expanded="false" />
+            <element signature="e#50822#50983#0" expanded="false" />
+            <element signature="e#51001#54260#0" expanded="false" />
+            <element signature="e#54278#54439#0" expanded="false" />
+            <element signature="e#54457#57677#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/altitude_sickness.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#2191#2804#0" expanded="false" />
+            <element signature="e#2822#4051#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunscreen.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="1416" column="0" lean-forward="false" selection-start-line="1414" selection-start-column="0" selection-end-line="1416" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#26981#0" expanded="false" />
+            <element signature="e#97#364#0" expanded="false" />
+            <element signature="e#651#4717#0" expanded="false" />
+            <element signature="e#4735#8801#0" expanded="false" />
+            <element signature="e#8819#13087#0" expanded="false" />
+            <element signature="e#13105#17372#0" expanded="false" />
+            <element signature="e#17653#18430#0" expanded="false" />
+            <element signature="e#18452#19221#0" expanded="false" />
+            <element signature="e#19243#19423#0" expanded="false" />
+            <element signature="e#19445#20216#0" expanded="false" />
+            <element signature="e#20238#20418#0" expanded="false" />
+            <element signature="e#20440#21217#0" expanded="false" />
+            <element signature="e#21239#21419#0" expanded="false" />
+            <element signature="e#27061#27328#0" expanded="false" />
+            <element signature="e#27880#28724#0" expanded="false" />
+            <element signature="e#28746#28926#0" expanded="false" />
+            <element signature="e#28948#29717#0" expanded="false" />
+            <element signature="e#29739#29919#0" expanded="false" />
+            <element signature="e#29941#30709#0" expanded="false" />
+            <element signature="e#30731#30911#0" expanded="false" />
+            <element signature="e#30933#31710#0" expanded="false" />
+            <element signature="e#32031#32880#0" expanded="false" />
+            <element signature="e#32902#33082#0" expanded="false" />
+            <element signature="e#33104#33873#0" expanded="false" />
+            <element signature="e#33895#34075#0" expanded="false" />
+            <element signature="e#34097#34865#0" expanded="false" />
+            <element signature="e#34887#35067#0" expanded="false" />
+            <element signature="e#35089#35866#0" expanded="false" />
+            <element signature="e#36187#37032#0" expanded="false" />
+            <element signature="e#37054#37234#0" expanded="false" />
+            <element signature="e#37256#38025#0" expanded="false" />
+            <element signature="e#38047#38227#0" expanded="false" />
+            <element signature="e#38249#39017#0" expanded="false" />
+            <element signature="e#39039#39219#0" expanded="false" />
+            <element signature="e#39241#40018#0" expanded="false" />
+            <element signature="e#40040#40220#0" expanded="false" />
+            <element signature="e#40276#44616#0" expanded="false" />
+            <element signature="e#41412#41592#0" expanded="false" />
+            <element signature="e#41614#42383#0" expanded="false" />
+            <element signature="e#42405#42585#0" expanded="false" />
+            <element signature="e#42607#43375#0" expanded="false" />
+            <element signature="e#43397#43577#0" expanded="false" />
+            <element signature="e#43599#44376#0" expanded="false" />
+            <element signature="e#44398#44578#0" expanded="false" />
+            <element signature="e#44634#48771#0" expanded="false" />
+            <element signature="e#45766#46535#0" expanded="false" />
+            <element signature="e#46557#46737#0" expanded="false" />
+            <element signature="e#46759#47530#0" expanded="false" />
+            <element signature="e#47552#47732#0" expanded="false" />
+            <element signature="e#47754#48531#0" expanded="false" />
+            <element signature="e#48553#48733#0" expanded="false" />
+            <element signature="e#48789#52927#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selfie_Spots.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="40" column="45" lean-forward="true" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jet_Lag.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="114" column="48" lean-forward="true" selection-start-line="114" selection-start-column="48" selection-end-line="114" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Indian_Embassy.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="325" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Local_Accomodation.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="710" selection-end-column="1" />
+          <folding>
+            <element signature="e#778#1353#0" expanded="false" />
+            <element signature="e#1379#1954#0" expanded="false" />
+            <element signature="e#4016#4176#0" expanded="false" />
+            <element signature="e#4194#9532#0" expanded="false" />
+            <element signature="e#4662#6290#0" expanded="false" />
+            <element signature="e#6318#7901#0" expanded="false" />
+            <element signature="e#7929#9519#0" expanded="false" />
+            <element signature="e#9550#9710#0" expanded="false" />
+            <element signature="e#9728#15091#0" expanded="false" />
+            <element signature="e#10213#11842#0" expanded="false" />
+            <element signature="e#11870#13456#0" expanded="false" />
+            <element signature="e#13484#15078#0" expanded="false" />
+            <element signature="e#15109#15269#0" expanded="false" />
+            <element signature="e#15832#17461#0" expanded="false" />
+            <element signature="e#17489#19075#0" expanded="false" />
+            <element signature="e#19103#20697#0" expanded="false" />
+            <element signature="e#21439#23068#0" expanded="false" />
+            <element signature="e#23096#24682#0" expanded="false" />
+            <element signature="e#24710#26304#0" expanded="false" />
+            <element signature="e#26335#26496#0" expanded="false" />
+            <element signature="e#28007#28488#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Age_sensitive_activities.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="90" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="90" />
+          <folding>
+            <element signature="e#2832#6505#0" expanded="false" />
+            <element signature="e#6523#6683#0" expanded="false" />
+            <element signature="e#6701#10400#0" expanded="false" />
+            <element signature="e#10418#10578#0" expanded="false" />
+            <element signature="e#10596#14298#0" expanded="false" />
+            <element signature="e#14316#14477#0" expanded="false" />
+            <element signature="e#14495#18200#0" expanded="false" />
+            <element signature="e#18218#18379#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_applications.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="145" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="308" selection-end-column="1" />
+          <folding>
+            <element signature="e#2403#4549#0" expanded="false" />
+            <element signature="e#4591#6754#0" expanded="false" />
+            <element signature="e#6860#7100#0" expanded="false" />
+            <element signature="e#8165#10311#0" expanded="false" />
+            <element signature="e#10417#10657#0" expanded="false" />
+            <element signature="e#10691#17983#0" expanded="false" />
+            <element signature="e#11724#13786#0" expanded="false" />
+            <element signature="e#13828#15845#0" expanded="false" />
+            <element signature="e#15887#17911#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

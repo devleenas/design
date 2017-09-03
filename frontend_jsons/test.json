@@ -1,0 +1,120 @@
+                {
+					"order": 7,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Evidences",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": ""
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/Evidences.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "95%",
+								"text": "India Uses Type C and Type D",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": ""
+							},
+							"value_section": {
+								"width": "5%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				},
+                {
+                   "order": 8,
+                   "type": "hline",
+                   "height": "2px",
+                   "color": "#dadee1"
+                },
+                {
+					"order": 9,
+					"type": "accordion",
+					"heading_bg": "#fffff",
+					"heading_padding": "10px 10px",
+					"heading": {
+						"text": "Recommendation",
+						"font_size": "15px",
+						"font_color": "#86919b",
+						"font_style": ""
+					},
+					"icon": {
+						"url": "http://164.132.53.178:8888/images/Common/Recommendations.png",
+						"ico_width": "24px",
+						"ico_height": "22px"
+					},
+					"section_bg": "rgba(255,255,255,.05)",
+					"section_data": [
+						{
+							"order": 1,
+							"type": "info-text",
+							"text_section": {
+								"width": "75%",
+								"text": "Buy an Universal Adaptor",
+								"font_color": "#69737b",
+								"font_size": "15px",
+								"font_style": ""
+							},
+							"value_section": {
+								"width": "25%",
+								"align_items": "right",
+								"value_type": "text",
+								"text": "",
+								"font_color": "#ff7575",
+								"font_size": "15px",
+								"font_style": ""
+							}
+						}
+					]
+				}
+
+
+
+                                {
+                "order": 3,
+                "type": "info-text",
+                "padding": "20px 20px",
+                "bg_color": "rgba(134,145,155,.05)",
+                "text_section": {
+                  "width": "75%",
+                  "text": "Trust Score",
+                  "font_color": "#69737b",
+                  "font_size": "15px",
+                  "font_style": ""
+                },
+                "value_section": {
+                "width": "25%",
+                "align_items": "right",
+                "value_type": "score",
+                "score": {
+                    "text": "7",
+                    "font_color": "#33d5b1",
+                    "font_size": "36px",
+                    "font_style": "bold"
+                },
+                "total": {
+                    "text": "/10",
+                    "font_color": "#86919b",
+                    "font_size": "15px",
+                    "font_style": "bold"
+                }
+            }
+
+               }
